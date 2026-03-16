@@ -14,12 +14,11 @@
             "id": "university",
             "name": "国立大学",
             "url": "https://news.google.com/rss/search?q=国立大学+研究+OR+産学連携&hl=ja&gl=JP&ceid=JP:ja"
-        }
+        },
         {
             "id": "game",
             "name": "ゲーム",
             "url": "https://news.google.com/rss/search?q=ゲーム&hl=ja&gl=JP&ceid=JP:ja"
         }
-
     ]
 }
