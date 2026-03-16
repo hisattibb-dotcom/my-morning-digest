@@ -5,11 +5,12 @@ import urllib.request
 import feedparser
 from datetime import datetime, timedelta
 import re
+import time
 from bs4 import BeautifulSoup
 import google.generativeai as genai
 
 # NOTE: 本番稼働時は環境変数等から安全に読み込む形に変更します
-GEMINI_API_KEY = "YOUR_GEMINI_API_KEY" 
+GEMINI_API_KEY = "AIzaSyCWn8BcxT-cYRtqqvp_8xAXrpBFJ9USgW4" 
 genai.configure(api_key=GEMINI_API_KEY)
 
 # SSL証明書エラー回避（ローカル環境用）
@@ -53,7 +54,7 @@ def summarize_with_ai(title, text):
         else:
             prompt = f"以下のニュース記事の本文を読み、重要なポイントを3行以内で箇条書きで、新聞のような硬派な文体で要約してください。\nタイトル: {title}\n本文: {text}"
             
-        model = genai.GenerativeModel("gemini-1.5-flash")
+        model = genai.GenerativeModel("gemini-2.5-flash")
         response = model.generate_content(prompt)
         # HTMLで表示できるように箇条書き(・)を整形
         summary_html = response.text.replace('\n', '<br>').replace('・', '• ')
@@ -83,6 +84,9 @@ def main():
             print(f"取得中: {title}")
             original_text_chunk = fetch_article_text(link)
             ai_summary = summarize_with_ai(title, original_text_chunk)
+            
+            # API無料枠の制限（5リクエスト/分）を回避するため15秒待機
+            time.sleep(15)
             
             # 時間計算処理の簡易版（本来はtzを合わせる）
             time_display = "本日"
