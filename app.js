@@ -118,7 +118,12 @@ document.addEventListener('DOMContentLoaded', () => {
                     <div class="card-top">
                         <div class="card-content">
                             <span class="news-source">${news.source} • ${news.time}</span>
-                            <h2 class="news-title">${news.title}</h2>
+                            <h2 class="news-title">
+                                <a href="${news.link || '#'}" target="_blank" rel="noopener noreferrer" class="news-title-link">
+                                    ${news.title}
+                                    <svg class="external-link-icon" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6M15 3h6v6M10 14L21 3"/></svg>
+                                </a>
+                            </h2>
                         </div>
                         <img src="${news.image}" alt="サムネイル" class="news-image">
                     </div>

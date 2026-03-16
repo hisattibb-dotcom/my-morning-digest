@@ -96,6 +96,7 @@ def main():
                 "title": title,
                 "source": "Google News",
                 "time": time_display,
+                "link": link, # ここに元記事のURLを追加
                 # TODO: 記事に関連しそうな画像をAIに生成させるか、ダミーを使うか調整
                 "image": f"file:///C:/Users/yhisa/.gemini/antigravity/brain/3ec1b64c-9fb8-4f1b-bf97-7bf3efc89321/{category_id}_news_thumbnail.png",
                 "summary": ai_summary,
