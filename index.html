@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>Morning Digest</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Shippori+Mincho:wght@500;700;800&family=Noto+Sans+JP:wght@400;500;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header class="app-header">
+        <div class="header-top">
+            <span class="date-badge" id="current-date">2026年3月16日(月)</span>
+            <button class="settings-btn" aria-label="設定">
+                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="3"></circle><path d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 0 1 0 2.83 2 2 0 0 1-2.83 0l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 0 1-2 2 2 2 0 0 1-2-2v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 0 1-2.83 0 2 2 0 0 1 0-2.83l.06-.06a1.65 1.65 0 0 0 .33-1.82 1.65 1.65 0 0 0-1.51-1H3a2 2 0 0 1-2-2 2 2 0 0 1 2-2h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 0 1 0-2.83 2 2 0 0 1 2.83 0l.06.06a1.65 1.65 0 0 0 1.82.33H9a1.65 1.65 0 0 0 1-1.51V3a2 2 0 0 1 2-2 2 2 0 0 1 2 2v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 0 1 2.83 0 2 2 0 0 1 0 2.83l-.06.06a1.65 1.65 0 0 0-.33 1.82V9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 0 1 2 2 2 2 0 0 1-2 2h-.09a1.65 1.65 0 0 0-1.51 1z"></path></svg>
+            </button>
+        </div>
+        <h1 class="newspaper-title">Morning Digest</h1>
+        <p class="newspaper-subtitle">あなた専用の朝刊プラットフォーム</p>
+    </header>
+
+    <div class="view-toggle-container">
+        <label class="view-toggle">
+            <input type="checkbox" id="view-mode-toggle">
+            <div class="toggle-slider">
+                <span class="toggle-label ai">AI要約版</span>
+                <span class="toggle-label original">元記事版</span>
+            </div>
+        </label>
+        <p class="toggle-hint">スワイプまたはタップで表示を切り替え</p>
+    </div>
+
+    <main class="content-container">
+        <nav class="category-tabs">
+            <button class="tab-btn active" data-target="top-news">主要ニュース</button>
+            <button class="tab-btn" data-target="startup">スタートアップ</button>
+            <button class="tab-btn" data-target="university">大学・研究</button>
+        </nav>
+
+        <section id="top-news" class="news-section active-section">
+            <div class="news-grid" id="top-news-container">
+                <!-- Data populated by JS -->
+            </div>
+        </section>
+
+        <section id="startup" class="news-section">
+            <div class="news-grid" id="startup-container">
+                <!-- Data populated by JS -->
+            </div>
+        </section>
+
+        <section id="university" class="news-section">
+            <div class="news-grid" id="university-container">
+                <!-- Data populated by JS -->
+            </div>
+        </section>
+    </main>
+
+    <script src="app.js"></script>
+</body>
+</html>

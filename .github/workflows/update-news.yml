@@ -1,0 +1,46 @@
+name: Morning Digest Daily Update
+
+on:
+  # 毎日朝7:00 (JST) に実行 (UTCでは 22:00)
+  schedule:
+    - cron: '0 22 * * *'
+  # 手動実行用トリガー
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  fetch-and-summarize:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Fetch news and generate summaries
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python fetch_news.py
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add news_data.json
+          # 差分がある場合のみコミット
+          if git diff-index --quiet HEAD; then
+            echo "No changes to commit"
+          else
+            git commit -m "Automated daily news update"
+            git push
+          fi
