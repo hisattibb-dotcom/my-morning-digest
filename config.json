@@ -1,0 +1,19 @@
+{
+    "categories": [
+        {
+            "id": "top-news",
+            "name": "主要ニュース",
+            "url": "https://news.google.com/rss?hl=ja&gl=JP&ceid=JP:ja"
+        },
+        {
+            "id": "startup",
+            "name": "スタートアップ",
+            "url": "https://news.google.com/rss/search?q=スタートアップ+OR+ベンチャー&hl=ja&gl=JP&ceid=JP:ja"
+        },
+        {
+            "id": "university",
+            "name": "大学・研究",
+            "url": "https://news.google.com/rss/search?q=大学+研究+OR+産学連携&hl=ja&gl=JP&ceid=JP:ja"
+        }
+    ]
+}

@@ -9,20 +9,39 @@ import time
 from bs4 import BeautifulSoup
 import google.generativeai as genai
 
-# NOTE: 本番稼働時は環境変数等から安全に読み込む形に変更します
-GEMINI_API_KEY = "AIzaSyCWn8BcxT-cYRtqqvp_8xAXrpBFJ9USgW4" 
+# セキュリティのため、APIキーは環境変数から読み込みます
+GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY")
+
+if not GEMINI_API_KEY:
+    # ローカル開発時などで設定されていない場合のヒント（実際のキーはここには書きません）
+    print("Error: 環境変数 'GEMINI_API_KEY' が設定されていません。")
+    # 代わりの方法として、もしあれば placeholder を使うなどの処理
+    # GEMINI_API_KEY = "YOUR_KEY_HERE"
+
 genai.configure(api_key=GEMINI_API_KEY)
 
 # SSL証明書エラー回避（ローカル環境用）
 if hasattr(ssl, '_create_unverified_context'):
     ssl._create_default_https_context = ssl._create_unverified_context
 
-# --- 1. 検索カテゴリとRSS URLの定義 ---
-CATEGORIES = {
-    "top-news": "https://news.google.com/rss?hl=ja&gl=JP&ceid=JP:ja",
-    "startup": "https://news.google.com/rss/search?q=スタートアップ+OR+ベンチャー&hl=ja&gl=JP&ceid=JP:ja",
-    "university": "https://news.google.com/rss/search?q=大学+研究+OR+産学連携&hl=ja&gl=JP&ceid=JP:ja"
-}
+# --- 1. 設定情報の読み込み ---
+def load_config():
+    config_path = os.path.join(os.path.dirname(__file__), "config.json")
+    # 設定ファイルが存在しない場合のデフォルト
+    if not os.path.exists(config_path):
+        return {
+            "categories": [
+                {"id": "top-news", "name": "主要ニュース", "url": "https://news.google.com/rss?hl=ja&gl=JP&ceid=JP:ja"},
+                {"id": "startup", "name": "スタートアップ", "url": "https://news.google.com/rss/search?q=スタートアップ+OR+ベンチャー&hl=ja&gl=JP&ceid=JP:ja"},
+                {"id": "university", "name": "大学・研究", "url": "https://news.google.com/rss/search?q=大学+研究+OR+産学連携&hl=ja&gl=JP&ceid=JP:ja"}
+            ]
+        }
+    with open(config_path, "r", encoding="utf-8") as f:
+        return json.load(f)
+
+CONFIG = load_config()
+CATEGORIES = {c["id"]: c["url"] for c in CONFIG["categories"]}
+CATEGORY_NAMES = {c["id"]: c["name"] for c in CONFIG["categories"]}
 
 # --- 2. 各記事の本文を簡易的に取得・抽出する関数 ---
 def fetch_article_text(url):
@@ -69,8 +88,12 @@ def main():
     results = {}
 
     for category_id, url in CATEGORIES.items():
-        print(f"\n--- カテゴリ取得開始: {category_id} ---")
-        results[category_id] = []
+        category_name = CATEGORY_NAMES.get(category_id, category_id)
+        print(f"\n--- カテゴリ取得開始: {category_name} ({category_id}) ---")
+        results[category_id] = {
+            "name": category_name,
+            "articles": []
+        }
         
         feed = feedparser.parse(url)
         # 各カテゴリトップ3件のみ取得
@@ -92,7 +115,7 @@ def main():
             time_display = "本日"
             
             # フロントエンド（app.jsのMOCK_DATA）の型に合わせる
-            results[category_id].append({
+            results[category_id]["articles"].append({
                 "title": title,
                 "source": "Google News",
                 "time": time_display,
