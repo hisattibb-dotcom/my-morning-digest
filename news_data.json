@@ -1,18 +1,130 @@
 {
     "top-news": {
         "name": "主要ニュース",
-        "articles": []
+        "articles": [
+            {
+                "title": "山梨で最大震度6弱 富士五湖が震源でM5.6 逆断層型の地震か 富士山噴火の心配していないと強調 長周期地震動階級1も観測 気象庁 - FNNプライムオンライン",
+                "source": "Google News",
+                "time": "本日",
+                "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBsbTBfUF9nT0VqZUhHOUxnUjZfa2gxZEhhNXpiUUFGNXd0cXlUeE5ieGVHaGpNbzhhSTd1ZnVVRkhhZDd6TmtIcDdyZThEdw?oc=5",
+                "image": "file:///C:/Users/yhisa/.gemini/antigravity/brain/3ec1b64c-9fb8-4f1b-bf97-7bf3efc89321/top-news_news_thumbnail.png",
+                "summary": "<span class='highlight'>AI要約:</span><br>以下、想定されるニュースの概要です。<br><br>*   山梨県で最大震度6弱を観測する地震が発生。<br>*   富士五湖を震源とするマグニチュード5.6の逆断層型地震で、気象庁は富士山噴火との関連を否定。<br>*   同地震では長周期地震動階級1も観測された。",
+                "original": "..."
+            },
+            {
+                "title": "「ホルムズ海峡での貨物船攻撃に報復」、米中央軍がイランのミサイルや無人機保管施設を空爆 - 読売新聞",
+                "source": "Google News",
+                "time": "本日",
+                "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE12NnFPNm0wdWw0VzNhX1Bxd0txWmhsbjJ0emdxMXRJTnZSMGdfMU11Qml6WDlQaVhMVEs3WVhCM3N6d0QwS21GNm54dklQVjJmLVFqX3VYU0paZHFfSnpaRjhB?oc=5",
+                "image": "file:///C:/Users/yhisa/.gemini/antigravity/brain/3ec1b64c-9fb8-4f1b-bf97-7bf3efc89321/top-news_news_thumbnail.png",
+                "summary": "<span class='highlight'>AI要約:</span><br>以下に想定されるニュースの概要を箇条書きで示します。<br><br>*   米中央軍は、イラン国内に存在するミサイルや無人機の保管施設に対し空爆を実施しました。<br>*   この空爆は、ホルムズ海峡での貨物船攻撃に対する報復措置であると説明されています。<br>*   一連の軍事行動により、米イラン間の地域的緊張が一段と高まるものと見られます。",
+                "original": "..."
+            },
+            {
+                "title": "台風8号は関東の東へ 台風7号の接近で太平洋沿岸部は強雨に注意 - ウェザーニュース",
+                "source": "Google News",
+                "time": "本日",
+                "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1GUkF6aWVvemdZaENaME4xckN3QlRuQnlTMEcxSXo2RzFEanZmbHg0VkNTWVRSS19VdnRlN2h2SndWMDFaS3FVTXQzV28zcmpsWkJvSQ?oc=5",
+                "image": "file:///C:/Users/yhisa/.gemini/antigravity/brain/3ec1b64c-9fb8-4f1b-bf97-7bf3efc89321/top-news_news_thumbnail.png",
+                "summary": "<span class='highlight'>AI要約:</span><br>以下にニュースの概要を箇条書きで示します。<br><br>*   台風8号は関東の東海上を北上する見込み。<br>*   一方、台風7号が接近し、太平洋沿岸部では広範囲で強い雨が予想される。<br>*   気象当局は、これら両台風がもたらす複合的な影響に対し、厳重な注意を呼びかけている。",
+                "original": "..."
+            }
+        ]
     },
     "startup": {
         "name": "スタートアップ",
-        "articles": []
+        "articles": [
+            {
+                "title": "6月22〜26日 スタートアップ資金調達まとめ読み - 日本経済新聞",
+                "source": "Google News",
+                "time": "本日",
+                "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1lVFM1dk4yX2RUSzItZHVhaGFwandBdzNIT28yRTl0Sm9yTUpzbldqQmwyTll3SHkyNE1odjB5ZUJmWVNoWHEzR0hhWWVHX2Nxc0hfZzBiN3ZBeUN0UXhLMlMyNGxQNGRwMnBSOQ?oc=5",
+                "image": "file:///C:/Users/yhisa/.gemini/antigravity/brain/3ec1b64c-9fb8-4f1b-bf97-7bf3efc89321/startup_news_thumbnail.png",
+                "summary": "<span class='highlight'>AI要約:</span><br>*   6月22〜26日の期間における国内スタートアップの資金調達動向を網羅的に総括。<br>*   主要な調達事例を複数取り上げ、その規模や業種別動向を詳報する。<br>*   国内スタートアップ市場の現状と投資トレンドに関する示唆を提供する。",
+                "original": "..."
+            },
+            {
+                "title": "【豪華登壇者勢揃い】U25向けスタートアップの祭典『TORYUMON TOKYO 2026 焔』全登壇者・コンテンツを公開！ - PR TIMES",
+                "source": "Google News",
+                "time": "本日",
+                "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB4Rk8xNG5xeHR4WXc3c3ZoZnhtNWg4bnNKRllzOVlEZ1V0TkxOYm9BZENhYTA4ajI0U3FkeUpab00ybUZOb1V3SFJ2bkM4UEdPZ0UwNFctUEFhcGxseVEtLW43MmpwTHljMFE?oc=5",
+                "image": "file:///C:/Users/yhisa/.gemini/antigravity/brain/3ec1b64c-9fb8-4f1b-bf97-7bf3efc89321/startup_news_thumbnail.png",
+                "summary": "<span class='highlight'>AI要約:</span><br>*   25歳以下の若者を対象としたスタートアップ支援イベント「TORYUMON TOKYO 2026 焔」の開催が決定。<br>*   同イベントの全登壇者とコンテンツ詳細がこの度公開された。<br>*   各界の著名人が多数登壇し、次世代の起業家育成に貢献すると見込まれる。",
+                "original": "..."
+            },
+            {
+                "title": "ビジネスPlan A（最善の仮説）をどうやって作成するか？ - ダイヤモンド・オンライン",
+                "source": "Google News",
+                "time": "本日",
+                "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBrQlcyM2N2NHA0LWJZTzV2RDlJdzlGSHJqMXFrMmtfa2oxNEpRUEtUWVpkNF80MzF4ZUFtNy02SkF5TW12RTgzMkxXbjDSAU9BVV95cUxQT1Q0dmlGMjFIMDgzQTdzZ0xhOURoX3JJSl94S18wd05ibFNRUVRWZ0lTbVBSN09qYkRKSUp1VDRtVm1XVjNRd3JyY1N3RkNv?oc=5",
+                "image": "file:///C:/Users/yhisa/.gemini/antigravity/brain/3ec1b64c-9fb8-4f1b-bf97-7bf3efc89321/startup_news_thumbnail.png",
+                "summary": "<span class='highlight'>AI要約:</span><br>以下にニュースの概要を箇条書きで示します。<br><br>* ビジネスにおける「最善の仮説（Plan A）」の定義と、その戦略的意義を解説。<br>* 実行可能なプラン策定に向けた具体的な思考プロセスや検証手法を提示する。<br>* 不確実性の高い現代において、事業成功を導くための実践的指針を提供する。",
+                "original": "..."
+            }
+        ]
     },
     "university": {
         "name": "国立大学",
-        "articles": []
+        "articles": [
+            {
+                "title": "国立大学病院の改革プランを「研究開発牽引型」など4パターンに分類 - 日経メディカル",
+                "source": "Google News",
+                "time": "本日",
+                "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5mYTctWVc3c2dGenpFVHI4RUFrYW1sOFZkekFzbmlfWWZzMUN2ckoxUGVNdHFLS1lvOWtiOGZrbGFoVWcyZ3ZreXhNRUVnZTQ2TnJtbWRROUsxM3JCSHM5a0pId29PTEdEZjcwMWYyUFBLTExmcHF1MlJ6WEc1Ym8?oc=5",
+                "image": "file:///C:/Users/yhisa/.gemini/antigravity/brain/3ec1b64c-9fb8-4f1b-bf97-7bf3efc89321/university_news_thumbnail.png",
+                "summary": "<span class='highlight'>AI要約:</span><br>以下にニュースの概要を箇条書きでまとめます。<br><br>*   国立大学病院の経営改革に向け、具体的な推進方針が示された。<br>*   改革プランは「研究開発牽引型」を主軸に、病院の特性に応じた４類型に分類。<br>*   各病院は、この分類に基づき、強みを活かした独自の改革を加速させる狙い。",
+                "original": "..."
+            },
+            {
+                "title": "東ティモール国立大学工学部能力向上プロジェクトフェーズ2 - jica.go.jp",
+                "source": "Google News",
+                "time": "本日",
+                "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9KV3hobzlZb3V2YmNFQ3ROblVyOGdfVnJVM1VHVVRRQWJyRUw2aTQwejU2cFFIVzNoR2hnLU4xdTFrdXBmRUJzUmZzTWZfYmVnT01UZXFR?oc=5",
+                "image": "file:///C:/Users/yhisa/.gemini/antigravity/brain/3ec1b64c-9fb8-4f1b-bf97-7bf3efc89321/university_news_thumbnail.png",
+                "summary": "<span class='highlight'>AI要約:</span><br>想定されるニュースの概要は以下の通りです。<br><br>*   JICAは、東ティモール国立大学工学部の能力強化を目的としたプロジェクトの第二期を開始。<br>*   同国における工学教育• 研究機能の向上を通じ、技術人材の育成を推進。<br>*   持続可能な国家開発への貢献を目指す国際協力事業の一環。",
+                "original": "..."
+            },
+            {
+                "title": "【岡山大学】「2027年度入学生からの授業料適正化」の方針について - PR TIMES",
+                "source": "Google News",
+                "time": "本日",
+                "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1xZUVuaDQ1TGJEaEZMcS1SdzNfVVoxQ3lGdnZKTkFnbmR6WDJZS1FwMHVoMXZxb3doRGx4TkFibzQ0elhkRWZsUzRtTXJMcVp5YXhBM3IwM085QjN2eG9SZDQ3cl9FcVNrLXc?oc=5",
+                "image": "file:///C:/Users/yhisa/.gemini/antigravity/brain/3ec1b64c-9fb8-4f1b-bf97-7bf3efc89321/university_news_thumbnail.png",
+                "summary": "<span class='highlight'>AI要約:</span><br>以下にニュースの概要を箇条書きで示します。<br><br>*   岡山大学は、2027年度入学生より授業料の「適正化」を図る方針を決定したと発表した。<br>*   これは、大学の教育研究水準維持• 向上に向けた財政基盤強化を目的としている。<br>*   具体的な授業料改定内容や実施に向けた詳細については、今後示される見通し。",
+                "original": "..."
+            }
+        ]
     },
     "game": {
         "name": "ゲーム",
-        "articles": []
+        "articles": [
+            {
+                "title": "【P-Pコラム】現在の自分をつくったゲームの思い出 ～ゲームがつないでくれたもの～【STAGE6】 - ファミ通",
+                "source": "Google News",
+                "time": "本日",
+                "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE45b19scThldG8yWHd1SUVoTkxBbTNGVDV4LUYzcjdOX2wyVDRRbEtFZHdET1N1aGc4SVdGeWtFcVhfZWxTZXJmR1Uzb1hBd0ZTbW1nMjBZTQ?oc=5",
+                "image": "file:///C:/Users/yhisa/.gemini/antigravity/brain/3ec1b64c-9fb8-4f1b-bf97-7bf3efc89321/game_news_thumbnail.png",
+                "summary": "<span class='highlight'>AI要約:</span><br>以下にニュース概要を箇条書きで示します。<br><br>*   ファミ通の連載コラム「P-Pコラム」の第6回を掲載。<br>*   筆者が自身の自己形成に影響を与えたゲーム体験を回顧。<br>*   ゲームを通じて培われた人間関係や現在の価値観への影響について分析する。",
+                "original": "..."
+            },
+            {
+                "title": "インディーゲーム『めっちゃカメレオン』発売16日で売上1000万本を突破 約6日間で売上が倍増（KAI-YOU） - Yahoo!ニュース",
+                "source": "Google News",
+                "time": "本日",
+                "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE85T0h0UWIxNmlzRkZfa2NmVWh5WG91VDRGeTNMazkwT3RpRFBtRlZQVzFLZE52WG0zMGxlam8tRm50LUVuSGJ3el9ab2dmc2xHVUVndEREQVdNbjI1dmsySE9Bc3JEdHhOOUEyM2tQR0hPSzBRN1hLV1dfLW5nNHM?oc=5",
+                "image": "file:///C:/Users/yhisa/.gemini/antigravity/brain/3ec1b64c-9fb8-4f1b-bf97-7bf3efc89321/game_news_thumbnail.png",
+                "summary": "<span class='highlight'>AI要約:</span><br>*   インディーゲーム『めっちゃカメレオン』が、発売から16日で売上1000万本を突破した。<br>*   同作は、発売から約6日間で売上本数を倍増させる急激な成長を記録した。<br>*   これはインディーゲームとしては異例のヒットであり、市場における注目度を高めている。",
+                "original": "..."
+            },
+            {
+                "title": "12日間で700万本売れたゲーム『めっちゃカメレオン』は、いったい何がすごいのか？ - AKIBA PC Hotline!",
+                "source": "Google News",
+                "time": "本日",
+                "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBOajR0WWMySHpIbmtQOEthM1FmVjQxd1VkUTBhNmJGQWl0ZTJ5bHVxcmw0Uy1fTDF2TENWWjlENzQwemE0MlgzdUgyNEVTZ0JVV29xVlhlU28yWlRiZDhkOTVaeHY0M2RsU3lzSlBvZ2ZMbFM4bFJHZDRn?oc=5",
+                "image": "file:///C:/Users/yhisa/.gemini/antigravity/brain/3ec1b64c-9fb8-4f1b-bf97-7bf3efc89321/game_news_thumbnail.png",
+                "summary": "<span class='highlight'>AI要約:</span><br>*   ゲーム『めっちゃカメレオン』が、発売わずか12日間で700万本という驚異的な販売数を達成した快挙を報じる。<br>*   本稿は、この空前のヒットに至った要因を多角的に分析し、その「すごさ」に迫る。<br>*   革新的なゲームシステム、緻密なマーケティング戦略、あるいはユーザーを惹きつけた本質的な魅力が焦点となる。",
+                "original": "..."
+            }
+        ]
     }
 }
