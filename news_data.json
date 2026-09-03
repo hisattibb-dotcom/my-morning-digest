@@ -1,130 +1,18 @@
 {
     "top-news": {
         "name": "主要ニュース",
-        "articles": [
-            {
-                "title": "原油先物1％高、米イラン攻撃再開で供給懸念高まる - ロイター",
-                "source": "Google News",
-                "time": "本日",
-                "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5fVm9rV2JQRmtSSzhhMzN0aUloTnY0eXdzaS1oOTNRNVBsY0lhRnNMNFhQbGNZZHRhR0xMNjVVTUc1bUFpTko4SUp2Tmc4a0F2MXc0UWJnc0lBb2lzTEZZQTdTNHlDWFhBdTVfSmQwNGswcTV1bWRUVw?oc=5",
-                "image": "file:///C:/Users/yhisa/.gemini/antigravity/brain/3ec1b64c-9fb8-4f1b-bf97-7bf3efc89321/top-news_news_thumbnail.png",
-                "summary": "<span class='highlight'>AI要約:</span><br>*   国際原油先物価格が1％高騰。<br>*   米国とイラン間の攻撃再開を受け、中東情勢が一段と緊迫化。<br>*   これにより、世界の原油供給網への懸念が強まっている。",
-                "original": "..."
-            },
-            {
-                "title": "中道比例議員の復党、制度的に可能…衆院選で立憲民主党・公明が届け出しなかったため - 読売新聞",
-                "source": "Google News",
-                "time": "本日",
-                "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9kVnRrNnNGcXJZWGRGYUxqOGY1RVhmeHBYVlFOQ1cwbGVUYnUzbzJVa3lfTnMwMFZtOTZPaGYxb2YteEV3TXFrbmhTMnljbFNiZTNBQ2tlSDNTdkZDa25LR3JvMmFXUQ?oc=5",
-                "image": "file:///C:/Users/yhisa/.gemini/antigravity/brain/3ec1b64c-9fb8-4f1b-bf97-7bf3efc89321/top-news_news_thumbnail.png",
-                "summary": "<span class='highlight'>AI要約:</span><br>以下に、想定されるニュースの概要を箇条書きで示します。<br><br>*   中道系比例代表選出議員の党への復党が、現行の制度上可能であることが判明した。<br>*   これは、先の衆院選において立憲民主党と公明党が特定の届け出を行わなかったことに起因する。<br>*   当該制度的要因が、当該議員の政治的帰属に関する新たな局面を招く見通し。",
-                "original": "..."
-            },
-            {
-                "title": "週間天気予報 台風と秋雨前線による大雨警戒 残暑落ち着き気温変化も大きい - ウェザーニュース",
-                "source": "Google News",
-                "time": "本日",
-                "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9YOWhhbFI0bVFoYXpFSTd2alVWMXV0YTlZYktCMDg1bzQzRVRkTmI3RnRKbWZzTmJmcVNoT3BZQW1mQVZjY01VM3JzekVDa090T2p0Qg?oc=5",
-                "image": "file:///C:/Users/yhisa/.gemini/antigravity/brain/3ec1b64c-9fb8-4f1b-bf97-7bf3efc89321/top-news_news_thumbnail.png",
-                "summary": "<span class='highlight'>AI要約:</span><br>*   今週は台風と秋雨前線の影響により、広範囲で大雨となる恐れがあり、厳重な警戒が求められる。<br>*   残暑は和らぐ見込みだが、気温の変動幅が大きくなるため、体調管理に十分な注意が必要となる。",
-                "original": "..."
-            }
-        ]
+        "articles": []
     },
     "startup": {
         "name": "スタートアップ",
-        "articles": [
-            {
-                "title": "次世代通信技術活用型スタートアップ支援事業 開発プロモーター3者の採択が決定！|9月 - metro.tokyo.lg.jp",
-                "source": "Google News",
-                "time": "本日",
-                "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9pZ0JwQjQ3N1EzS0U3VVg0MDdjbmE0SDhmODd1VkRvci1ZdWRUZTVaTFN4VHZ0Wm0yZ2VRbklTUHJOUW9wNjBSWWNuRnhZUHg2Z2FMeXFVM2N4TTVPM3F3SkFMY2p1Q1dWTDJSTGhJM1lSRE9O?oc=5",
-                "image": "file:///C:/Users/yhisa/.gemini/antigravity/brain/3ec1b64c-9fb8-4f1b-bf97-7bf3efc89321/startup_news_thumbnail.png",
-                "summary": "<span class='highlight'>AI要約:</span><br>*   東京都は、次世代通信技術を活用したスタートアップ支援事業において、開発プロモーター3者の採択を決定した。<br>*   これは、スタートアップ企業の技術開発を促進し、事業化を後押しする役割を担う専門機関• 企業を選定するもの。<br>*   本事業は、革新的な通信技術を持つ企業の育成を通じ、産業競争力の強化を目指す。",
-                "original": "..."
-            },
-            {
-                "title": "東京海洋大学認定ベンチャー株式会社さかなドリームが「大学発ベンチャー表彰2026」で科学技術振興機構理事長賞を受賞、東京海洋大学も支援大学として表彰されました。 - kaiyodai.ac.jp",
-                "source": "Google News",
-                "time": "本日",
-                "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9LZEN1SFd4YjdWdkhNN3V2MzdUczhnUko1U0QyeE5zUC1uU2x6eDMzMXFaVHNKai1uVW1pZmU3bVIwUkFyMV9jXzZOY0h1YUh3eXFwc1NYeGJkQjlNQzZtbmVEYk4xVlk5anFiU0tUVQ?oc=5",
-                "image": "file:///C:/Users/yhisa/.gemini/antigravity/brain/3ec1b64c-9fb8-4f1b-bf97-7bf3efc89321/startup_news_thumbnail.png",
-                "summary": "<span class='highlight'>AI要約:</span><br>以下にニュースの概要を箇条書きで示します。<br><br>*   東京海洋大学認定ベンチャーである株式会社さかなドリームが、「大学発ベンチャー表彰2026」にて科学技術振興機構理事長賞を受賞した。<br>*   同社は東京海洋大学発の革新的ベンチャーとして、その事業内容と社会貢献性が高く評価された。<br>*   東京海洋大学も同社の支援実績を評価され、支援大学として表彰を受け、大学によるベンチャー育成の成果を示した。",
-                "original": "..."
-            },
-            {
-                "title": "佐川急便 スタートアップ企業を物流面から支援 - カーゴニュースオンライン",
-                "source": "Google News",
-                "time": "本日",
-                "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1vckNHWTVsZlQwaTZ0RDhFZ0lGMDlBZmlJWFV5S0dtcWY1cFM4eDZ0cXotcFRfWkpPTTZ5RmtqZXQxTVVPWEhjM0E1VTRtN3JwSnRKY1RHTmdVemJhSnJv?oc=5",
-                "image": "file:///C:/Users/yhisa/.gemini/antigravity/brain/3ec1b64c-9fb8-4f1b-bf97-7bf3efc89321/startup_news_thumbnail.png",
-                "summary": "<span class='highlight'>AI要約:</span><br>以下に、想定されるニュースの概要を箇条書きで示します。<br><br>*   佐川急便が、スタートアップ企業を対象とした物流支援事業を開始する。<br>*   全国に広がる配送網と長年培った物流ノウハウを提供し、新興企業の事業成長を物流面から強力に後押しする。<br>*   これにより、スタートアップ企業が抱える物流課題の解決を促進し、国内のイノベーション創出と経済活性化への貢献を目指す。",
-                "original": "..."
-            }
-        ]
+        "articles": []
     },
     "university": {
         "name": "国立大学",
-        "articles": [
-            {
-                "title": "【岡山大学】文部科学省・JST「先端研究基盤刷新事業（EPOCH）」に採択～人的資本による知と技の共創の場が切り拓く、我が国の研究環境・基盤の刷新の実現へ～ - PR TIMES",
-                "source": "Google News",
-                "time": "本日",
-                "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5BU2NWNklRX3Q3bi1kYXJoQmJhTld2OTZRT0c1NDRlN2c1dXVESGtkc1ZmZWZCelRndTE2cXNNNlJtZVdkZW50cDJ1Mk9CUUNERkhVZTBPTlJ2QTlMSW85Q0t3SmFoRXkzX3c?oc=5",
-                "image": "file:///C:/Users/yhisa/.gemini/antigravity/brain/3ec1b64c-9fb8-4f1b-bf97-7bf3efc89321/university_news_thumbnail.png",
-                "summary": "<span class='highlight'>AI要約:</span><br>以下にニュースの概要を箇条書きで示します。<br><br>*   岡山大学が、文部科学省およびJSTが推進する「先端研究基盤刷新事業（EPOCH）」に採択された。<br>*   本事業は、人的資本による知と技の共創を通じ、我が国の研究環境および研究基盤の刷新を目指すもの。<br>*   岡山大学は、この国家的な取り組みにおいて、その実現に向けた中心的役割を担うことが期待される。",
-                "original": "..."
-            },
-            {
-                "title": "国際卓越研究大学に早稲田が挑戦した意義（上） - waseda.jp",
-                "source": "Google News",
-                "time": "本日",
-                "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1yWVhXZnoxa3F4VnJLTFpQQ2xHYzFTd2stM0w3UElNcHpTeWxKV3R1UkhFRThMN2xjQ2t2akJkSXpyaE53VVdqNUhkUTFjdw?oc=5",
-                "image": "file:///C:/Users/yhisa/.gemini/antigravity/brain/3ec1b64c-9fb8-4f1b-bf97-7bf3efc89321/university_news_thumbnail.png",
-                "summary": "<span class='highlight'>AI要約:</span><br>*   国際卓越研究大学制度への早稲田大学の挑戦について、その背景と戦略的意義を詳述。<br>*   同大がグローバルな研究拠点形成を目指す意図と、私学の立場から示す高い志を提示。<br>*   本挑戦が日本の高等教育の国際競争力向上、及び私立大学の役割に与える影響を論じる。",
-                "original": "..."
-            },
-            {
-                "title": "国立大の運営費交付金、1541億円増額要求へ「新たな投資枠」活用 - 朝日新聞",
-                "source": "Google News",
-                "time": "本日",
-                "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5BWHZPV3FmV2x1YTNqRVd0NTNrVjRMbnc2Q1VVNmV3X2JWSlctNUtRWnc0Ynl4UkFYTl9GTUNQcHNuQnVjeUZPcDFSV0RwQkVxS0lJY1lneFRMTW1lb1llOUJjT2V0MmM?oc=5",
-                "image": "file:///C:/Users/yhisa/.gemini/antigravity/brain/3ec1b64c-9fb8-4f1b-bf97-7bf3efc89321/university_news_thumbnail.png",
-                "summary": "<span class='highlight'>AI要約:</span><br>*   国立大学側は、運営費交付金の大幅な増額を政府に要求する方針を固めた。<br>*   要求額は1541億円に上り、新たに設けられる「新たな投資枠」を活用する見込み。<br>*   教育研究の質向上と国際競争力強化を目的とした大学機能強化が主眼となる。",
-                "original": "..."
-            }
-        ]
+        "articles": []
     },
     "game": {
         "name": "ゲーム",
-        "articles": [
-            {
-                "title": "Switch2新作『世界のテーブルゲーム＆遊びコレクション60＋』12/10発売。全64種類のゲームを収録、『ドリームクラブ』キャラ登場のパズルも【先出し週刊ファミ通】 - ファミ通",
-                "source": "Google News",
-                "time": "本日",
-                "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9UX0VmLVVTTjAzdDloQi1QUjFDQ1p1Y3VLSi1OUHRMazA4UEtqeHBLOUdCWWZpcks4aUYxd0FrZjJUeGwwWWFwU3JSbEl0eXJKNjNxLWJQbw?oc=5",
-                "image": "file:///C:/Users/yhisa/.gemini/antigravity/brain/3ec1b64c-9fb8-4f1b-bf97-7bf3efc89321/game_news_thumbnail.png",
-                "summary": "<span class='highlight'>AI要約:</span><br>以下にニュース概要を箇条書きで記す。<br><br>*   ニンテンドーSwitch2向け新作ソフト『世界のテーブルゲーム＆遊びコレクション60＋』が12月10日に発売される。<br>*   本ソフトは、全64種類に及ぶテーブルゲームや遊びを網羅したコレクションタイトルとなる。<br>*   過去の人気作『ドリームクラブ』のキャラクターが登場するパズルゲームも収録され、その詳細が週刊ファミ通にて先行公開された。",
-                "original": "..."
-            },
-            {
-                "title": "「実は作りやすく可能性に満ちているのに、SRPGはなぜゲーム会社の企画会議で通りづらいのか？」『ハンドラ』SRPGパート開発者と考える、市場にSRPGを増やしていくために必要なこと - AUTOMATON",
-                "source": "Google News",
-                "time": "本日",
-                "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9pSmNCZ2VZQnNhUW4waVgxWVlKaU1XSkVVWjV1N3p3QVo0VkJJUDZRbmY0MzRLSTZxaGpCTlNDTU5jZE1nM0ZxbHpEa1lKNmU1WG1nZUZrNl9iNHRXM3pOUXZqeWRqX2pWTHdKVzdseFdEZWlFamt5RThYWQ?oc=5",
-                "image": "file:///C:/Users/yhisa/.gemini/antigravity/brain/3ec1b64c-9fb8-4f1b-bf97-7bf3efc89321/game_news_thumbnail.png",
-                "summary": "<span class='highlight'>AI要約:</span><br>*   SRPGが持つ開発の容易さと潜在的魅力に反し、ゲーム企画会議での承認が困難な現状を指摘。<br>*   『ハンドラ』開発者がその背景にある課題を深く分析し、企画が通りにくい要因を考察する。<br>*   市場におけるSRPGの供給拡大に向け、必要とされる戦略と具体的な方策を探る。",
-                "original": "..."
-            },
-            {
-                "title": "【MGS】『メタルギア ソリッド』が発売された日。立体的な潜入が行えるようになった3Dステルスゲームの元祖にして「20世紀最高のシナリオ」の傑作【今日は何の日？】（ファミ通.com） - Yahoo!ニュース",
-                "source": "Google News",
-                "time": "本日",
-                "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE85RGwxamhUQU1qZ0ViaGJFVE1sTkswNFBaaXF2ejFjS3YtS2NwNGU0N3BDQXFyXzI2WUJWbTZQWEJUM0FxYmJuVkVjdFd2X2VHMFVVRkVlREFmOEpHYlgwb1ZqcGF2TXhzdGZld25faUZUNTdIN3RmamoyUkNaMVU?oc=5",
-                "image": "file:///C:/Users/yhisa/.gemini/antigravity/brain/3ec1b64c-9fb8-4f1b-bf97-7bf3efc89321/game_news_thumbnail.png",
-                "summary": "<span class='highlight'>AI要約:</span><br>- 『メタルギア ソリッド』の発売日に焦点を当て、同作がゲーム史に残した功績を解説。<br>- 3Dステルスゲームの先駆として、立体的な潜入アクションを確立した記念碑的作品である点を強調。<br>- 「20世紀最高のシナリオ」と称されるその物語性が、今なお高く評価される傑作であると紹介。",
-                "original": "..."
-            }
-        ]
+        "articles": []
     }
 }
