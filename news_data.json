@@ -1,18 +1,130 @@
 {
     "top-news": {
         "name": "主要ニュース",
-        "articles": []
+        "articles": [
+            {
+                "title": "土石流発生から１０日目、水力発電所のトンネルから作業員男性２人救出…したたり落ちる水を飲み生存 - yomiuri.co.jp",
+                "source": "Google News",
+                "time": "本日",
+                "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9NUjVRb0pYZWNFbGxVMWt6eUNBM3o0T0NVZ0FTRTJaeTRKWENwc3Zid0RrcVU4WFF5a3FlVGNqd3hmQ09JRWZUTF9BcWN4QkpsLXVQaUNrZkJLUnFfa3BvWXlB?oc=5",
+                "image": "file:///C:/Users/yhisa/.gemini/antigravity/brain/3ec1b64c-9fb8-4f1b-bf97-7bf3efc89321/top-news_news_thumbnail.png",
+                "summary": "<span class='highlight'>AI要約:</span><br>*   土石流発生から10日目を迎え、水力発電所のトンネルに閉じ込められていた作業員男性2人が救出された。<br>*   2人は長期にわたり生存が危ぶまれる状況にあったが、無事に生還を果たした。<br>*   坑内でしたたり落ちる水を飲み、過酷な環境下で生命を維持していたことが明らかになった。",
+                "original": "..."
+            },
+            {
+                "title": "茂木外相留任へ、片山財務相も有力…トランプ政権との外交の継続性・円安への対応重視 - yomiuri.co.jp",
+                "source": "Google News",
+                "time": "本日",
+                "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE52U3pISkJYYmhVZDNFaXFlOTlwbkZtNU5JOW5nNkxCNkpJWU9iNE1DV20xQmhvbmtoUXo3SHU0NnpNMGZjUFdfTlRYQ053WjRheVdfbFJ3R1FlZjJTUDJERXJVYWdZZw?oc=5",
+                "image": "file:///C:/Users/yhisa/.gemini/antigravity/brain/3ec1b64c-9fb8-4f1b-bf97-7bf3efc89321/top-news_news_thumbnail.png",
+                "summary": "<span class='highlight'>AI要約:</span><br>以下に想定されるニュースの概要をまとめます。<br><br>*   次期内閣において茂木敏充外務大臣が留任する見通しとなった。<br>*   財務大臣には片山さつき氏が有力候補として浮上している。<br>*   一連の人事は、トランプ政権との外交継続性および円安への対応を重視する姿勢の表れとみられる。",
+                "original": "..."
+            },
+            {
+                "title": "【速報】鹿児島県・屋久島地方にレベル5土砂災害特別警報 命を守る行動を - ウェザーニュース",
+                "source": "Google News",
+                "time": "本日",
+                "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8zWlBJT0N6TkY5RWM5U2tIajZVdmQxdkl5Z3V4Mm9BUXNZQXhYWnVvMXo5SU5yMlJ0TUl6c1ZWSzRReEpBMElGX2dZdlVKbURfR2MwUg?oc=5",
+                "image": "file:///C:/Users/yhisa/.gemini/antigravity/brain/3ec1b64c-9fb8-4f1b-bf97-7bf3efc89321/top-news_news_thumbnail.png",
+                "summary": "<span class='highlight'>AI要約:</span><br>*   鹿児島県屋久島地方に、土砂災害特別警報が発令された。<br>*   これは警戒レベル5に相当し、すでに土砂災害が発生しているか、極めて切迫した状況を示す。<br>*   地元住民は、命を守るための最善の行動を直ちにとることが強く求められる。",
+                "original": "..."
+            }
+        ]
     },
     "startup": {
         "name": "スタートアップ",
-        "articles": []
+        "articles": [
+            {
+                "title": "8月31日〜9月4日 スタートアップ資金調達まとめ読み - 日本経済新聞",
+                "source": "Google News",
+                "time": "本日",
+                "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBxX1Y3Z3pPZllROGFqMVZyQU5WMkZjcEN0Y0N3YnJiNzE0enVmZld2aWdEWC0tZGxMeW85N0FmZjJvTEo3M2tMd3VjQkx5VkJVRHhVMUZScy01YlRQZFRqVkxabEc1RDdxQ01SMQ?oc=5",
+                "image": "file:///C:/Users/yhisa/.gemini/antigravity/brain/3ec1b64c-9fb8-4f1b-bf97-7bf3efc89321/startup_news_thumbnail.png",
+                "summary": "<span class='highlight'>AI要約:</span><br>*   8月31日から9月4日にかけて実施された国内スタートアップ企業の資金調達事例を網羅的に報じる。<br>*   各社の調達額、出資元、および事業内容を詳細にまとめ、一覧として提示。<br>*   この期間における投資トレンドと産業の活性化状況を分析し、今後の動向を展望する。",
+                "original": "..."
+            },
+            {
+                "title": "官民連携ファンドの投資活動状況について（スタートアップ戦略推進本部所管分）|9月 - metro.tokyo.lg.jp",
+                "source": "Google News",
+                "time": "本日",
+                "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8weVhSeDNJQ3lXQW5vY1pvU0w5WTlGbEVBZFdiUXNjTml3MHc0bVRYVWRMbFdvRGl5SDRsa1Q0ckc3QUZIdm5vV29HR1RXQ0VXTGl0dmNnQXZkdUp1Wm1IYjBPaXY4TWhSWUdrV3RvR1l3U3Vu?oc=5",
+                "image": "file:///C:/Users/yhisa/.gemini/antigravity/brain/3ec1b64c-9fb8-4f1b-bf97-7bf3efc89321/startup_news_thumbnail.png",
+                "summary": "<span class='highlight'>AI要約:</span><br>*   東京都は、スタートアップ戦略推進本部が所管する官民連携ファンドの投資活動状況を公表した。<br>*   これは、9月時点における同ファンドの投資実績および運用状況を報告するもの。<br>*   都が推進するスタートアップ支援戦略の進捗と透明性確保が図られる。",
+                "original": "..."
+            },
+            {
+                "title": "アップルに勤めながらスタートアップを立ち上げるために1日13時間働いた29歳…周囲の助言を聞かず「掛け持ちを辞めなかった理由」 - Business Insider Japan",
+                "source": "Google News",
+                "time": "本日",
+                "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQOXUxaTI5Wmg5ZHQweFoxbWJueG9CTzdoeVlMSmRsVVRISHRoWEY1cmFZckdQMmIzUzdfaDB4VzcxNjNNMkZvLVdGckxKcl9kbEpVeUVNMjJpV0NsNjVfTUJDUUFRMVJnSlJ5X1NyN3ZkOTBYbFY0NTVRS2lWOHRRc3FndVRidUVCbE1UX1dpLVM2WUxiM0hpRk9JYXF0VlBLNTlQaVhSMGRkZGs?oc=5",
+                "image": "file:///C:/Users/yhisa/.gemini/antigravity/brain/3ec1b64c-9fb8-4f1b-bf97-7bf3efc89321/startup_news_thumbnail.png",
+                "summary": "<span class='highlight'>AI要約:</span><br>*   米大手IT企業アップル社に勤務する29歳の人物が、自らのスタートアップ創業を目指し、本業と並行して1日13時間もの過酷な労働に従事した実態を報じる。<br>*   周囲からの懸念や助言を押し切り、二足のわらじを続けた同氏の姿勢と、その困難な道を選択し続けた背景にある動機を探る。<br>*   記事は、多忙な日々の中で彼が何を原動力とし、いかなる信念を持って臨んだのか、その真意に迫る。",
+                "original": "..."
+            }
+        ]
     },
     "university": {
         "name": "国立大学",
-        "articles": []
+        "articles": [
+            {
+                "title": "恐竜研究、長谷川善和さん死去 古生物学者、横浜国立大名誉教授 - 47NEWS",
+                "source": "Google News",
+                "time": "本日",
+                "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBoNUpvMXR4SDRxSmdpS1hxU1E4Tno4XzRRbUI1T1pON25UWDdiTENVc3FOQ2N6VTB1TGVCZWFNd3JxYjhVWmE5eTVJYw?oc=5",
+                "image": "file:///C:/Users/yhisa/.gemini/antigravity/brain/3ec1b64c-9fb8-4f1b-bf97-7bf3efc89321/university_news_thumbnail.png",
+                "summary": "<span class='highlight'>AI要約:</span><br>以下にニュースの概要を箇条書きで示します。<br><br>*   古生物学者で横浜国立大学名誉教授の長谷川善和氏が死去した。<br>*   同氏は日本における恐竜研究の草分け的存在として知られ、多数の化石発掘調査を主導した。<br>*   その功績は、日本の古生物学の発展に大きく寄与した。",
+                "original": "..."
+            },
+            {
+                "title": "国際卓越研究大学に早稲田が挑戦した意義（上） - waseda.jp",
+                "source": "Google News",
+                "time": "本日",
+                "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1yWVhXZnoxa3F4VnJLTFpQQ2xHYzFTd2stM0w3UElNcHpTeWxKV3R1UkhFRThMN2xjQ2t2akJkSXpyaE53VVdqNUhkUTFjdw?oc=5",
+                "image": "file:///C:/Users/yhisa/.gemini/antigravity/brain/3ec1b64c-9fb8-4f1b-bf97-7bf3efc89321/university_news_thumbnail.png",
+                "summary": "<span class='highlight'>AI要約:</span><br>*   早稲田大学が国際卓越研究大学の公募に挑んだ背景と、その戦略的意図を解明する。<br>*   同挑戦が同大学の研究力向上と国際競争力強化に与える意義を検証。<br>*   日本の高等教育機関における早稲田の役割と、将来的な展望を巡る論考。",
+                "original": "..."
+            },
+            {
+                "title": "国立大の運営費交付金、1541億円増額要求へ「新たな投資枠」活用 - 朝日新聞",
+                "source": "Google News",
+                "time": "本日",
+                "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5BWHZPV3FmV2x1YTNqRVd0NTNrVjRMbnc2Q1VVNmV3X2JWSlctNUtRWnc0Ynl4UkFYTl9GTUNQcHNuQnVjeUZPcDFSV0RwQkVxS0lJY1lneFRMTW1lb1llOUJjT2V0MmM?oc=5",
+                "image": "file:///C:/Users/yhisa/.gemini/antigravity/brain/3ec1b64c-9fb8-4f1b-bf97-7bf3efc89321/university_news_thumbnail.png",
+                "summary": "<span class='highlight'>AI要約:</span><br>以下に想定されるニュースの概要を箇条書きで示します。<br><br>*   国立大学が運営費交付金の増額を政府に要求する方針が判明した。<br>*   要求額は1541億円に上り、「新たな投資枠」の活用を柱とする。<br>*   大学の財政基盤強化と運営体制の改善を図るための具体的な動きとなる。",
+                "original": "..."
+            }
+        ]
     },
     "game": {
         "name": "ゲーム",
-        "articles": []
+        "articles": [
+            {
+                "title": "陰実ゲーム新作『陰の実力者になりたくて！Phantom Echoes』2027年発売。ジャンルは3Dアクション。アルファのバトルシーンも公開【State of Play】 - ファミ通",
+                "source": "Google News",
+                "time": "本日",
+                "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5hY29xMkZ4MU5wVmoyZmZ5eU0ybjFsc2ZfZ2NrQjYwQ2xUMGRhOURMUUNzaTRQNzR2eV9FYnI1cE9rbXNXQzZJSUtSRFBib0FRXzdCTmd5OA?oc=5",
+                "image": "file:///C:/Users/yhisa/.gemini/antigravity/brain/3ec1b64c-9fb8-4f1b-bf97-7bf3efc89321/game_news_thumbnail.png",
+                "summary": "<span class='highlight'>AI要約:</span><br>*   人気シリーズの新作ゲーム『陰の実力者になりたくて！Phantom Echoes』が、3Dアクションジャンルとして2027年に発売予定であることが発表された。<br>*   「State of Play」にて初公開され、主要キャラクターであるアルファの戦闘場面が披露された。",
+                "original": "..."
+            },
+            {
+                "title": "時代とともに進化し、時代ごとに愛する人がいる。開発スタッフに聞く『RPGツクール』の歴史とこれから―普及・定着・革新、それぞれの時代を振り返る（Game Spark） - Yahoo!ニュース",
+                "source": "Google News",
+                "time": "本日",
+                "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1JNWtkSnp3N2dFaDByR3B4WjU2Q3FGWXhNWjNBQ3ZfWkNuczZ4MktOMW1UNVczMUpIUDhibHlCeHVVT0tXSWh4OGRDS0l1LVBWV1JWYTdfTUZ1OFVqZ3BSM0JhNzFaMXBja19scjlkZUo0ZVZEX214V0ZucjBDd2c?oc=5",
+                "image": "file:///C:/Users/yhisa/.gemini/antigravity/brain/3ec1b64c-9fb8-4f1b-bf97-7bf3efc89321/game_news_thumbnail.png",
+                "summary": "<span class='highlight'>AI要約:</span><br>以下、ニュースの概要です。<br><br>* 『RPGツクール』の歴史と未来について、開発スタッフが解説する記事。<br>* 普及、定着、革新の三つの時代区分を通じて、その進化の足跡を検証。<br>* 長年にわたり愛され続けた理由と、今後の展望を提示する内容。",
+                "original": "..."
+            },
+            {
+                "title": "横スクロールローグライクアクションゲーム『スラッシュゼロ』が2027年春に発売決定。体験版も配信開始 - 電ファミニコゲーマー",
+                "source": "Google News",
+                "time": "本日",
+                "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAzSkZOY21GTFg2NUxPQk9USURvRWRRSDRsblcwcU1vczFGZGQ3d2laRXdiNjJEeHkyaEd0YTRKekhmcnc1a0l0c2FBOEt2UHpTeFhwMzVZTlJJUQ?oc=5",
+                "image": "file:///C:/Users/yhisa/.gemini/antigravity/brain/3ec1b64c-9fb8-4f1b-bf97-7bf3efc89321/game_news_thumbnail.png",
+                "summary": "<span class='highlight'>AI要約:</span><br>*   横スクロールローグライクアクションゲーム『スラッシュゼロ』が、2027年春に発売されることが決定した。<br>*   発売決定と同時に、現在、ゲームの先行体験が可能な体験版の配信が開始されている。",
+                "original": "..."
+            }
+        ]
     }
 }
