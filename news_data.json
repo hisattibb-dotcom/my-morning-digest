@@ -1,130 +1,18 @@
 {
     "top-news": {
         "name": "主要ニュース",
-        "articles": [
-            {
-                "title": "名古屋で観測史上1位の猛烈な雨 今日も東海を中心に引き続き大雨警戒 - ウェザーニュース",
-                "source": "Google News",
-                "time": "本日",
-                "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9MSU9yT2VBSkt5Nzc4VkFqZU9IT3hZTFl2LUFFSXVGMmNia2xuaXVXX2Q3Z25SZDR6WHpNekV2a0g5SER0YTlQTzRXVXQzZHhVcjRCSQ?oc=5",
-                "image": "file:///C:/Users/yhisa/.gemini/antigravity/brain/3ec1b64c-9fb8-4f1b-bf97-7bf3efc89321/top-news_news_thumbnail.png",
-                "summary": "<span class='highlight'>AI要約:</span><br>以下にニュースの概要を箇条書きで示します。<br><br>*   名古屋市で観測史上1位となる猛烈な雨が記録された。<br>*   本日も東海地方を中心に大雨への厳重な警戒が引き続き呼びかけられている。<br>*   土砂災害や河川の増水、低地の浸水などに厳重な警戒が必要とされる。",
-                "original": "..."
-            },
-            {
-                "title": "主要閣僚の留任続々、入閣待ち議員やきもき…高市首相は「アンケート」と能力重視 - 読売新聞",
-                "source": "Google News",
-                "time": "本日",
-                "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA3LUVKRU5ld3VsamtmN1hqRkhQcnJRdm5PMUVuVmVtSjRnOEFkZ0ZJRmxwNmRjSHJUWWd4QldzSUtMY0ExRXpfdV8zVzN6Ny1BenZLdHNrc21USlhFc0E2bFZ4bFdSQQ?oc=5",
-                "image": "file:///C:/Users/yhisa/.gemini/antigravity/brain/3ec1b64c-9fb8-4f1b-bf97-7bf3efc89321/top-news_news_thumbnail.png",
-                "summary": "<span class='highlight'>AI要約:</span><br>以下、想定されるニュースの概要です。<br><br>*   高市内閣は主要閣僚の多くを留任させる方針を固めた。<br>*   これにより、入閣を期待していた与党議員からは、不満の声が上がっている。<br>*   首相は「アンケート」を通じ、派閥にとらわれない能力重視の人事を示唆した。",
-                "original": "..."
-            },
-            {
-                "title": "「スリッパの謎」が示す捜査の難航 上智大生殺害30年 - 毎日新聞",
-                "source": "Google News",
-                "time": "本日",
-                "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5vM0RNRUxSZmhFckQ2T2lyazh5Um1fQlVLb3huVFVpYVZnMnJETEt3LU5hZzFPQzdKX3FxOVU5X29GX2o2VVJOWXFJQXEwYmxOMk9xd1g3a2x6V2tzOS1DNmVCTjNWQ3M4?oc=5",
-                "image": "file:///C:/Users/yhisa/.gemini/antigravity/brain/3ec1b64c-9fb8-4f1b-bf97-7bf3efc89321/top-news_news_thumbnail.png",
-                "summary": "<span class='highlight'>AI要約:</span><br>以下に想定されるニュースの概要を箇条書きで示します。<br><br>*   上智大生殺害事件が未解決のまま発生から30年を迎え、長期にわたる捜査の難航が改めて浮き彫りとなった。<br>*   現場に残された「スリッパの謎」は、事件解決を阻む象徴的な未解明点として、捜査の困難さを物語る。<br>*   本記事は、節目を迎えた事件の現状を報じ、未解決の真相と、長期化する捜査の背景にある課題を浮き彫りにする。",
-                "original": "..."
-            }
-        ]
+        "articles": []
     },
     "startup": {
         "name": "スタートアップ",
-        "articles": [
-            {
-                "title": "スタートアップ融資9倍超 28年度に、「トップランナー狙う」 りそな銀社長（時事通信） - Yahoo!ニュース",
-                "source": "Google News",
-                "time": "本日",
-                "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9DYXRrV05iZE5KRXFpRWw4VVh2Nmt6RU44c1NMalJxRzI5ZnlXeTJ6VlRKSGcwZ3ZiUnlCbHA4SkxQRlNWXzc2NnU3MUd1ZXRLU3FXQkVIaG54SUVlQ25EZWNQYkhkZkpqX3dhcm5BLWNXaFZIQVpiZGpQSWc1MTg?oc=5",
-                "image": "file:///C:/Users/yhisa/.gemini/antigravity/brain/3ec1b64c-9fb8-4f1b-bf97-7bf3efc89321/startup_news_thumbnail.png",
-                "summary": "<span class='highlight'>AI要約:</span><br>*   りそな銀行は、2028年度までにスタートアップ向け融資を現行比9倍超に拡大する方針を固めた。<br>*   同行はこれにより、スタートアップ支援分野において「トップランナー」としての地位確立を目指す。<br>*   上記の方針はりそな銀行社長が表明したものであり、同行の成長戦略の一環とみられる。",
-                "original": "..."
-            },
-            {
-                "title": "スタートアップを活用したナフサ代替素材等の社会実装促進事業 事業開始|9月 - metro.tokyo.lg.jp",
-                "source": "Google News",
-                "time": "本日",
-                "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBEMS02UUNwVlJERnNXQkxqMG9Uc2lISGZCMVVJZjNyTlJwLUVFYU1XZ2FDWGxkSlVERE1aRmJsODQ1S1FYZDVPSGMyeEVINy0yeExhOTRvRllLTW5YRGl2YkhQVE91a3NNWW1fV0NXSEZBQlNk?oc=5",
-                "image": "file:///C:/Users/yhisa/.gemini/antigravity/brain/3ec1b64c-9fb8-4f1b-bf97-7bf3efc89321/startup_news_thumbnail.png",
-                "summary": "<span class='highlight'>AI要約:</span><br>以下に想定されるニュースの概要を箇条書きで示します。<br><br>*   東京都は9月、スタートアップ企業の技術を活用する新規事業を開始した。<br>*   本事業は、ナフサ代替素材をはじめとする次世代素材の社会実装促進を目的とする。<br>*   これにより、環境負荷の低減と持続可能な産業構造への転換を目指す。",
-                "original": "..."
-            },
-            {
-                "title": "令和8年度 スタートアップチャレンジ甲子園 - pref.hyogo.lg.jp",
-                "source": "Google News",
-                "time": "本日",
-                "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9FTGhPcUhsRzE2RGltWDFrNzIxYUdIeW9LQkhodFJTUmxiUG5pUHgyV253Z1ZmUXpKVGJhY2dwdUhSQ3ZGQzVJTkNoRzVGUU4wR3c5bHd3c0tpb0lTekpqZ2tmbFRieU0?oc=5",
-                "image": "file:///C:/Users/yhisa/.gemini/antigravity/brain/3ec1b64c-9fb8-4f1b-bf97-7bf3efc89321/startup_news_thumbnail.png",
-                "summary": "<span class='highlight'>AI要約:</span><br>*   兵庫県は、新規事業創出を目的としたビジネスプランコンテスト「スタートアップチャレンジ甲子園」を令和8年度に開催することを発表。<br>*   次世代を担う起業家の発掘• 育成を目指し、広範な層から革新的な事業アイデアを募集• 選定する見通し。<br>*   本事業は、地域経済の活性化と産業競争力の強化に貢献することが期待される。",
-                "original": "..."
-            }
-        ]
+        "articles": []
     },
     "university": {
         "name": "国立大学",
-        "articles": [
-            {
-                "title": "静岡大学 第9回プロジェクト研究所シンポジウム開催のお知らせ - PR TIMES",
-                "source": "Google News",
-                "time": "本日",
-                "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBBTGcyakZDaE9ieXU1WkFiUk9wRUU0QUlwd1poeWtlVVUwb0JCeXIxR3FPZ196ZGxYRkZBNDQyZnFzd2NyR2lFRTlQOENacmlBOU5GVTgtVC1FS1Q4clo1b0ZZUDAxbUVJN2c?oc=5",
-                "image": "file:///C:/Users/yhisa/.gemini/antigravity/brain/3ec1b64c-9fb8-4f1b-bf97-7bf3efc89321/university_news_thumbnail.png",
-                "summary": "<span class='highlight'>AI要約:</span><br>以下に、ニュースの想定される概要を3行以内で箇条書きで示します。<br><br>*   静岡大学は、第9回プロジェクト研究所シンポジウムの開催を発表した。<br>*   同シンポジウムでは、プロジェクト研究所が推進する多岐にわたる研究成果が発表される見通し。<br>*   学術交流の促進と研究連携の深化を目的とし、関係者の活発な議論が期待される。",
-                "original": "..."
-            },
-            {
-                "title": "Meta「Meta Glasses」発表、ペパボ研究所と横浜国立大学「声を出さずに言葉を認識する手装着型デバイス」の研究結果を発表 ほか | 週刊VRウォッチ - thinkit.co.jp",
-                "source": "Google News",
-                "time": "本日",
-                "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9NcUdYNTVQdlFGaWpaMzNwOTVad3gzTkNhUmRNeEZmaDNqRDJ5ZC0xVVMxYWFEQXFmbUhHRVpndzdVdER6RVZGSHd2TQ?oc=5",
-                "image": "file:///C:/Users/yhisa/.gemini/antigravity/brain/3ec1b64c-9fb8-4f1b-bf97-7bf3efc89321/university_news_thumbnail.png",
-                "summary": "<span class='highlight'>AI要約:</span><br>以下にニュースの概要を箇条書きで示します。<br><br>*   Metaが次世代ウェアラブル端末「Meta Glasses」を発表し、VR/AR市場における同社の戦略加速が注目された。<br>*   ペパボ研究所と横浜国立大学は、声を出さずに言葉を認識する手装着型デバイスの研究成果を公表した。<br>*   これらは次世代ヒューマンインターフェース技術およびXR技術の進化を示すものとして報じられている。",
-                "original": "..."
-            },
-            {
-                "title": "国立大の運営費交付金、1541億円増額要求へ「新たな投資枠」活用 - 朝日新聞",
-                "source": "Google News",
-                "time": "本日",
-                "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5BWHZPV3FmV2x1YTNqRVd0NTNrVjRMbnc2Q1VVNmV3X2JWSlctNUtRWnc0Ynl4UkFYTl9GTUNQcHNuQnVjeUZPcDFSV0RwQkVxS0lJY1lneFRMTW1lb1llOUJjT2V0MmM?oc=5",
-                "image": "file:///C:/Users/yhisa/.gemini/antigravity/brain/3ec1b64c-9fb8-4f1b-bf97-7bf3efc89321/university_news_thumbnail.png",
-                "summary": "<span class='highlight'>AI要約:</span><br>国立大学の運営費交付金について、1541億円の増額要求が打ち出された。<br>この増額は、政府が新たに設ける「投資枠」を活用することで賄われる見通し。<br>背景には、研究力強化や国際競争力向上に向けた国立大学の機能強化を促進する狙いがある。",
-                "original": "..."
-            }
-        ]
+        "articles": []
     },
     "game": {
         "name": "ゲーム",
-        "articles": [
-            {
-                "title": "Minecraft Dungeons II (マインクラフト ダンジョンズ 2) の新たなゲームシステム - Minecraft",
-                "source": "Google News",
-                "time": "本日",
-                "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPM0pDa2lJWm9rb0Y5OVRaM1JURTNmaUw4ZFkxQ2hPZDdXaXF4OEdNdngyYUZ1bno1SHVNNDM5bTJjNktJcGlfQ3Q5bDdpc3hVZ2VBTnVSMEFWQzk3VU1rQ2NjS0JRbldVbWhOZldNaVBkN3E2RHFiVjdsTmd5TlVzb1RuZjJWWjEt?oc=5",
-                "image": "file:///C:/Users/yhisa/.gemini/antigravity/brain/3ec1b64c-9fb8-4f1b-bf97-7bf3efc89321/game_news_thumbnail.png",
-                "summary": "<span class='highlight'>AI要約:</span><br>想定されるニュースの概要は以下の通りです。<br><br>*   人気タイトル「Minecraft Dungeons」の続編「Minecraft Dungeons II」において、全く新しいゲームシステムの導入が判明。<br>*   この新システムにより、従来のゲームプレイからの大幅な刷新と進化が期待される。<br>*   プレイヤーは新たな戦略やアクションの多様性を体験し、ゲームの世界観をより深く掘り下げることが可能となる見込み。",
-                "original": "..."
-            },
-            {
-                "title": "2.5D「少女バディ」アドベンチャー『MONOPHOBIA』、シナリオは『わたなれ』みかみてれんが担当。壱百満天原サロメのデザイナー・緜とのタッグで絆の物語を描く - ファミ通",
-                "source": "Google News",
-                "time": "本日",
-                "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9aalhCYllXVXMzTXNJRDNpb1RHM2E2RmUwbkNLbjJlOXQ0LWx5OUtuRHl1QzZ6b1hjYTE2dUgtdEljM3RuRzRCSHhoWXdPVERtQ1JoVGlKaw?oc=5",
-                "image": "file:///C:/Users/yhisa/.gemini/antigravity/brain/3ec1b64c-9fb8-4f1b-bf97-7bf3efc89321/game_news_thumbnail.png",
-                "summary": "<span class='highlight'>AI要約:</span><br>*   新作2.5Dアドベンチャーゲーム『MONOPHOBIA』の制作が発表された。<br>*   シナリオは『わたなれ』のみかみてれん氏が、キャラクターデザインは壱百満天原サロメのデザイナー• 緜氏がそれぞれ担当する。<br>*   本作は「少女バディ」による絆の物語を主題とする。",
-                "original": "..."
-            },
-            {
-                "title": "阪神・藤川監督　雨中止１４回目「熱いゲームが後ろにずれ込むというところ」「常にゲームのない時は静かに過ごす」一問一答 - ｄメニューニュース",
-                "source": "Google News",
-                "time": "本日",
-                "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBiTzdwa2tza2NSemRfYm1USkxoTzQxYWoyMmVtb0ZqYVhMWUZPOExKX2ZuVlJWSVFjT1pPemNFeWhuMlRhNUs0WG5UdnpKcjNWamdMRG55RFZNVnBLbjJvSUtTdVFSbGNiMnBldG1HM2trVmNUcjFMMGZn0gF_QVVfeXFMTkl3U2ptZHVLVkhmcGo1V1JmdURCQTROUnQ3NzlsNkMtLWk2dVpsUjliV3pBM1BuVUxuLXhNZW0wTElmUlJfcHF4MVFyZUUzMDgxYzBpckQwa1dSRG9MMkZsWHFlLXBMWjh5d29GOTRSR01DR1NhamZzQld2dWNFbw?oc=5",
-                "image": "file:///C:/Users/yhisa/.gemini/antigravity/brain/3ec1b64c-9fb8-4f1b-bf97-7bf3efc89321/game_news_thumbnail.png",
-                "summary": "<span class='highlight'>AI要約:</span><br>*   阪神の藤川監督は、今季14度目となった雨天中止に対し見解を表明。<br>*   「熱いゲームが後ろにずれ込む」と日程への影響を示唆した。<br>*   一方で、試合のない日は「静かに過ごす」との心境を明かした。",
-                "original": "..."
-            }
-        ]
+        "articles": []
     }
 }
