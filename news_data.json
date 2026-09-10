@@ -1,18 +1,130 @@
 {
     "top-news": {
         "name": "主要ニュース",
-        "articles": []
+        "articles": [
+            {
+                "title": "岸田氏も人事アンケート回答 木原官房長官「首相は実力主義」 - 時事ドットコム",
+                "source": "Google News",
+                "time": "本日",
+                "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9pOEZraDlSYlNJOGdkY2wzeDVtOUprR0Zoek9EMVRKbmJzLXp2TW93WWZXMHlGcDdUUTg2elM2ajFjcmdPRlREMUItbUNBRlJhcVVCMWtZNFUwVmFHQjRlR2JGbw?oc=5",
+                "image": "file:///C:/Users/yhisa/.gemini/antigravity/brain/3ec1b64c-9fb8-4f1b-bf97-7bf3efc89321/top-news_news_thumbnail.png",
+                "summary": "<span class='highlight'>AI要約:</span><br>想定されるニュースの概要は以下の通りです。<br><br>*   岸田文雄首相が、内閣改造や党役員人事を巡る人事アンケートに回答した。<br>*   木原誠二官房長官は、首相が実力主義を重視する姿勢であることを強調した。<br>*   一連の動きは、今後の人事刷新に向けた準備とみられている。",
+                "original": "..."
+            },
+            {
+                "title": "週間天気予報 太陽恋しい秋の長雨 来週は再び大雨の可能性 - ウェザーニュース",
+                "source": "Google News",
+                "time": "本日",
+                "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA2cGtkVVUyRVJGdEZ0Ny1mNTNsc0FuaTh2ZXh4aFdJd2REU3o0SzJadTRzUTRqMTFybjdNSUZDaWpnUjJVYmpPdU05UDFBUzI1dGNFUQ?oc=5",
+                "image": "file:///C:/Users/yhisa/.gemini/antigravity/brain/3ec1b64c-9fb8-4f1b-bf97-7bf3efc89321/top-news_news_thumbnail.png",
+                "summary": "<span class='highlight'>AI要約:</span><br>*   今週は秋雨前線の影響により、全国的に日照時間が少なく、雨の多い天候が続く見込み。<br>*   来週にかけては、発達する低気圧や前線の影響で、広範囲での再び大雨となる可能性が高い。<br>*   各地で土砂災害や河川の増水、交通網への影響が懸念されており、厳重な警戒が呼びかけられる。",
+                "original": "..."
+            },
+            {
+                "title": "トランプ大統領、米国民成人に１人７７万円「配当」支給を約束…共和党党大会が開幕し演説 - yomiuri.co.jp",
+                "source": "Google News",
+                "time": "本日",
+                "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE02MWdFa2N6NFNjR3M0Vm94by14SlB4aXlpZlg1Qk5ScGlhVVBGbmJubDJ5SGpLWDA0UWRhQ0ZWb3B5SEVqYmtkZDJ1ZEx6NUV5d0Jpbl9MMGIyX3d5V1BIYU93?oc=5",
+                "image": "file:///C:/Users/yhisa/.gemini/antigravity/brain/3ec1b64c-9fb8-4f1b-bf97-7bf3efc89321/top-news_news_thumbnail.png",
+                "summary": "<span class='highlight'>AI要約:</span><br>*   トランプ米大統領は共和党党大会の開幕演説にて、米国民への直接給付を表明した。<br>*   具体的には、成人国民１人当たり７７万円の「配当」支給を公約として掲げた。<br>*   大統領再選を視野に入れた主要な経済政策の一環とみられる。",
+                "original": "..."
+            }
+        ]
     },
     "startup": {
         "name": "スタートアップ",
-        "articles": []
+        "articles": [
+            {
+                "title": "シアトルスタートアップとの懇談会を開催 (2026年9月10日 No.3743) - keidanren.or.jp",
+                "source": "Google News",
+                "time": "本日",
+                "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE91UzVCMXlsVFh3YnppMmd0aExtSzF0VlB0clduSEp3Q2F3MFBkNHVmd0JCb3hucmJwZXZtbEdUR20xRUxhaGtxYjcxWDYtNUJUSjVXOTNhUjFaUTNWWEYwUUpOVzFJS001M1FB?oc=5",
+                "image": "file:///C:/Users/yhisa/.gemini/antigravity/brain/3ec1b64c-9fb8-4f1b-bf97-7bf3efc89321/startup_news_thumbnail.png",
+                "summary": "<span class='highlight'>AI要約:</span><br>以下に、ニュースのタイトルから想定される概要を箇条書きで記します。<br><br>*   経団連は2026年9月10日、シアトル所在のスタートアップ企業を招いた懇談会を開催した。<br>*   本会合では、イノベーション創出とグローバル連携強化に向けた活発な意見交換が行われた。<br>*   国内産業の国際競争力向上及び新たなビジネス機会の創出への寄与が期待される。",
+                "original": "..."
+            },
+            {
+                "title": "肩書きを脱いで本気で遊ぶ日、\"渋谷スタートアップ文化祭\"がヒカリエで帰ってくる - finders.me",
+                "source": "Google News",
+                "time": "本日",
+                "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1Gb0x4cGtqeUNJMDJ2UDVjSmt4SFg3S0lCbnY2eTcwRGJST0lwMkpNZ0xDc3ZsR21ZZVZtQUVhZUQ2VkdKelVnU0lkR2lqdw?oc=5",
+                "image": "file:///C:/Users/yhisa/.gemini/antigravity/brain/3ec1b64c-9fb8-4f1b-bf97-7bf3efc89321/startup_news_thumbnail.png",
+                "summary": "<span class='highlight'>AI要約:</span><br>以下、想定されるニュースの概要です。<br><br>*   「渋谷スタートアップ文化祭」が、渋谷ヒカリエにて再び開催されることが決定した。<br>*   本イベントは、参加者が肩書きにとらわれず、本質的な交流や新たなアイデア創出を目指すことを趣旨とする。<br>*   地域のスタートアップエコシステム活性化の一環として、カジュアルながらも意義深い共創の場を提供する。",
+                "original": "..."
+            },
+            {
+                "title": "ファンドで北大発スタートアップを支援（テレビ北海道） - Yahoo!ニュース",
+                "source": "Google News",
+                "time": "本日",
+                "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Lc2JDUmRvUjRLVHFMbGtrSVhUM1lDdlZEdzk1UVUzaGVWRV9WbFdsN0MybkJUNC1yc29Ma1lFRjlkX3ptQ0hmbTVVR3Fub1RGdGZfeUFMREphSnVpTU85d21oS0t1eEdmX2JDaXBzLVlld2xYZHVIdW04TUYtdGc?oc=5",
+                "image": "file:///C:/Users/yhisa/.gemini/antigravity/brain/3ec1b64c-9fb8-4f1b-bf97-7bf3efc89321/startup_news_thumbnail.png",
+                "summary": "<span class='highlight'>AI要約:</span><br>*   北海道大学発のスタートアップ企業への支援体制が構築される見込み。<br>*   具体的には、ファンドを活用し、これらの企業の事業化と成長を後押しする計画。<br>*   大学の研究成果の実用化と地域経済の活性化に貢献することが期待される。",
+                "original": "..."
+            }
+        ]
     },
     "university": {
         "name": "国立大学",
-        "articles": []
+        "articles": [
+            {
+                "title": "静岡大学 第9回プロジェクト研究所シンポジウム開催のお知らせ - PR TIMES",
+                "source": "Google News",
+                "time": "本日",
+                "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBBTGcyakZDaE9ieXU1WkFiUk9wRUU0QUlwd1poeWtlVVUwb0JCeXIxR3FPZ196ZGxYRkZBNDQyZnFzd2NyR2lFRTlQOENacmlBOU5GVTgtVC1FS1Q4clo1b0ZZUDAxbUVJN2c?oc=5",
+                "image": "file:///C:/Users/yhisa/.gemini/antigravity/brain/3ec1b64c-9fb8-4f1b-bf97-7bf3efc89321/university_news_thumbnail.png",
+                "summary": "<span class='highlight'>AI要約:</span><br>以下に、想定されるニュースの概要を3行の箇条書きで示します。<br><br>*   静岡大学が「第9回プロジェクト研究所シンポジウム」を開催する。<br>*   本シンポジウムでは、プロジェクト研究所における最新の研究成果発表と学術的知見の共有を行う。<br>*   開催日時、会場、プログラム等の詳細は、後日改めて公表される。",
+                "original": "..."
+            },
+            {
+                "title": "Meta「Meta Glasses」発表、ペパボ研究所と横浜国立大学「声を出さずに言葉を認識する手装着型デバイス」の研究結果を発表 ほか | 週刊VRウォッチ - thinkit.co.jp",
+                "source": "Google News",
+                "time": "本日",
+                "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9NcUdYNTVQdlFGaWpaMzNwOTVad3gzTkNhUmRNeEZmaDNqRDJ5ZC0xVVMxYWFEQXFmbUhHRVpndzdVdER6RVZGSHd2TQ?oc=5",
+                "image": "file:///C:/Users/yhisa/.gemini/antigravity/brain/3ec1b64c-9fb8-4f1b-bf97-7bf3efc89321/university_news_thumbnail.png",
+                "summary": "<span class='highlight'>AI要約:</span><br>想定されるニュースの概要は以下の通りです。<br><br>*   米Metaが新たなXRデバイス「Meta Glasses」を発表した。<br>*   ペパボ研究所と横浜国立大学は、非発声で言葉を認識する手装着型デバイスの研究成果を公開した。<br>*   これらは、VR/AR分野における次世代ヒューマンインターフェース技術の進展を示す。",
+                "original": "..."
+            },
+            {
+                "title": "国立大の運営費交付金、1541億円増額要求へ「新たな投資枠」活用 - asahi.com",
+                "source": "Google News",
+                "time": "本日",
+                "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5BWHZPV3FmV2x1YTNqRVd0NTNrVjRMbnc2Q1VVNmV3X2JWSlctNUtRWnc0Ynl4UkFYTl9GTUNQcHNuQnVjeUZPcDFSV0RwQkVxS0lJY1lneFRMTW1lb1llOUJjT2V0MmM?oc=5",
+                "image": "file:///C:/Users/yhisa/.gemini/antigravity/brain/3ec1b64c-9fb8-4f1b-bf97-7bf3efc89321/university_news_thumbnail.png",
+                "summary": "<span class='highlight'>AI要約:</span><br>以下、想定されるニュースの概要です。<br><br>*   国立大学の運営費交付金について、1541億円の増額要求が行われる見通しとなった。<br>*   増額分は「新たな投資枠」を財源として活用し、国立大学の機能強化が図られる。<br>*   これにより、日本の研究力向上や国際競争力強化への寄与が期待されている。",
+                "original": "..."
+            }
+        ]
     },
     "game": {
         "name": "ゲーム",
-        "articles": []
+        "articles": [
+            {
+                "title": "「PLAYISM GAME SHOW: TGS 2026 Preview」の発表内容について - インディーゲームパブリッシャー",
+                "source": "Google News",
+                "time": "本日",
+                "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBKdV8xYlp3UU5LbjJNejVfSUtWV245aWl4WExjZE9iTnQ1N1ZlUFVodUljYVJKN1djdGJ3ajRHM1BHUTVOU19obVlGeHJ3Y1h2RXc?oc=5",
+                "image": "file:///C:/Users/yhisa/.gemini/antigravity/brain/3ec1b64c-9fb8-4f1b-bf97-7bf3efc89321/game_news_thumbnail.png",
+                "summary": "<span class='highlight'>AI要約:</span><br>*   インディーゲームパブリッシャーPLAYISMは、「PLAYISM GAME SHOW: TGS 2026 Preview」における発表内容を公開した。<br>*   同イベントでは、東京ゲームショウ2026での出展に先駆け、新作インディーゲームや既存タイトルの最新情報が多数披露された。<br>*   これにより、今後のインディーゲーム市場における同社の戦略及び主要タイトルの動向が明らかになった。",
+                "original": "..."
+            },
+            {
+                "title": "東京ゲームショウ2026のイベントステージ・公式番組情報が公開。出展社数が1138社、出展間数は3999小間に。にじさんじのRei7、男虎が公式アンバサダーに就任 - ファミ通",
+                "source": "Google News",
+                "time": "本日",
+                "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1RVHpacXlyRkNMMFFneDI4WVNNNmtVNEJyQVBHMktPLUxaVk9YQm8xN2RISmZSU1lBblotNl9OLXZaRVFsVjZwRFYta1dxUVpacEltbW0zYw?oc=5",
+                "image": "file:///C:/Users/yhisa/.gemini/antigravity/brain/3ec1b64c-9fb8-4f1b-bf97-7bf3efc89321/game_news_thumbnail.png",
+                "summary": "<span class='highlight'>AI要約:</span><br>以下、想定されるニュース概要。<br><br>*   東京ゲームショウ2026のイベントステージおよび公式番組情報が公開された。<br>*   出展社数は1138社、出展小間数は3999小間に上り、大規模な開催となる見込み。<br>*   バーチャルライバーグループ「にじさんじ」所属のRei7と男虎が公式アンバサダーに就任した。",
+                "original": "..."
+            },
+            {
+                "title": "「東京ゲームショウ2026」プレイステーション®ブースの試遊事前予約受付を開始！ - PlayStation.Blog 日本語",
+                "source": "Google News",
+                "time": "本日",
+                "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOYVNhUUZpdnZ0YnZJWDllMHBGcXZkOW1LMHljY2l3MTJIQjdNYS1NR3JfeE56VlpoSTd2bll5MXFRdXp4TnhFWEtkenNCN0VtSkNqM1FYd2hMeWFBalY1X2plbUNZZkV5VXdsZXJCLWo1SWJZOVBqX1dhZmMxLWJRSzJLcGxBRFRNakRNNllxUkJxNkU?oc=5",
+                "image": "file:///C:/Users/yhisa/.gemini/antigravity/brain/3ec1b64c-9fb8-4f1b-bf97-7bf3efc89321/game_news_thumbnail.png",
+                "summary": "<span class='highlight'>AI要約:</span><br>*   「東京ゲームショウ2026」のPlayStationブースにおける。<br>*   来場者向けの試遊体験に関する。<br>*   事前予約受付が開始された。",
+                "original": "..."
+            }
+        ]
     }
 }
