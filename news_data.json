@@ -3,30 +3,30 @@
         "name": "主要ニュース",
         "articles": [
             {
-                "title": "読む政治：変わらぬ「麻生氏頼み」のひずみ 極秘の電話で詰めた自民党人事 - mainichi.jp",
+                "title": "高市首相、全閣僚に共通指示４項目…責任ある積極財政・国民の命と暮らし守る・外交と防衛強化・広報充実 - 読売新聞",
                 "source": "Google News",
                 "time": "本日",
-                "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE91N1lVNVVHakFJTFJfM2MtSkNtMmd2ekVYLU9qWVF3UEVnNHBnaV81YlViSWF3VGE0VkhpLVRvVDctQTdxMjBmRTBsa3ZOOXBvS295bjl5VzVpME9RdHNNWEQtSDhQSU9O?oc=5",
+                "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9UTGxaVzZfSExpQzBCbmNwbjljRzJadXlTV0J3VTlUYThpZzRiVmFCbjFZOUU1bjNTd3hOUzJQZE83eFVJX1FnNnZjUVNvaFI2T3ljNWRUN3BNVHk2aFEySjZOdjVDdw?oc=5",
                 "image": "file:///C:/Users/yhisa/.gemini/antigravity/brain/3ec1b64c-9fb8-4f1b-bf97-7bf3efc89321/top-news_news_thumbnail.png",
-                "summary": "要約の生成に失敗しました。（429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash\nPlease retry in 50.245154909s. [links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerMinutePerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 5\n}\n, retry_delay {\n  seconds: 50\n}\n]）",
+                "summary": "<span class='highlight'>AI要約:</span><br>*   高市首相は、全閣僚に対し、政権運営における共通の４項目を指示した。<br>*   指示内容は、責任ある積極財政の推進と、国民の命と暮らしを守る施策の徹底。<br>*   さらに、外交• 防衛体制の強化、及び政府活動に関する広報の充実を求めた。",
                 "original": "..."
             },
             {
-                "title": "維新「閣内協力」で正式合意、内閣改造は赤沢亮正・経済産業相と城内実・成長戦略相が続投へ - 読売新聞",
+                "title": "ケーキ店主らと口論し包丁とガソリン持参か、死亡の男を殺人・放火容疑で書類送検方針…岐阜県警 - 読売新聞",
                 "source": "Google News",
                 "time": "本日",
-                "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4teFpmcDRPbXdfVDhjNXlVZGpoZGV0WVFjX016dGE5UkNMSDZZcVlCWnZUejVycGNYNVhMN0dqYVZQaFE2TzVxVXBkdTdHMkdCbHZ4UHJkZXhnc1hZRVdVamx3WU5hQQ?oc=5",
+                "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBuOV9KX0p3bGcxTlRlRnhpRmVhREdZWUpSX3RQampQR1BpYV9GcXIycS1sSlZoektkeVpxMEVpWlFINFdmR1lzX1dnNnpuNFNrdHJZQXU0WWNtR1BZc2Y0UkRmOWxydw?oc=5",
                 "image": "file:///C:/Users/yhisa/.gemini/antigravity/brain/3ec1b64c-9fb8-4f1b-bf97-7bf3efc89321/top-news_news_thumbnail.png",
-                "summary": "要約の生成に失敗しました。（429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash\nPlease retry in 35.024765057s. [links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerMinutePerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 5\n}\n, retry_delay {\n  seconds: 35\n}\n]）",
+                "summary": "<span class='highlight'>AI要約:</span><br>以下、想定されるニュースの概要です。<br><br>*   岐阜県警は、ケーキ店主らとの口論後、包丁とガソリンを持参したとされる死亡の男について捜査を進めている。<br>*   男を殺人及び放火の容疑で、被疑者死亡のまま書類送検する方針を固めた。<br>*   事件は口論が発端とみられており、詳しい経緯を解明する方針。",
                 "original": "..."
             },
             {
-                "title": "【速報】サウジ石油施設を攻撃とフーシ派 - 47NEWS",
+                "title": "週間天気予報 シルバーウィークは関東に台風25号接近 東海以西は暑さに注意 - ウェザーニュース",
                 "source": "Google News",
                 "time": "本日",
-                "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBodkxJeWFpVWpwbk9OVzlMZDFab3BDcGk0R3NYYUNhMUlCOVpaWnJZY3IwMkpRWUh5VVNJN3c3bS1TMW90QjNIVUF0NA?oc=5",
+                "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1JNHk2Slc5SGlvU3Z1VWN2TVVZdHcxd2d2TC05RVJZMjYwU1B1VFF5ckZuV3c2dEh2Y1VmLWJRX2pfcFJZVEFtWWlOU1V6QXR2WXhBQw?oc=5",
                 "image": "file:///C:/Users/yhisa/.gemini/antigravity/brain/3ec1b64c-9fb8-4f1b-bf97-7bf3efc89321/top-news_news_thumbnail.png",
-                "summary": "要約の生成に失敗しました。（429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash\nPlease retry in 19.796978034s. [links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerMinutePerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 5\n}\n, retry_delay {\n  seconds: 19\n}\n]）",
+                "summary": "<span class='highlight'>AI要約:</span><br>以下、ニュースの想定される概要です。<br><br>*   来たるシルバーウィーク期間中、関東地方では台風25号の接近が予想される。<br>*   東海以西の地域では、高温が続くため熱中症などへの警戒が必要となる。",
                 "original": "..."
             }
         ]
@@ -35,30 +35,30 @@
         "name": "スタートアップ",
         "articles": [
             {
-                "title": "はじめに：『「伝説のバンカー」と呼ばれた男 スタートアップを圧倒的に成長させる仕事術』 - 日経BOOKプラス",
+                "title": "琉銀とHAKKI提携 スタートアップ支援強化 - 沖縄タイムス社",
                 "source": "Google News",
                 "time": "本日",
-                "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBNcnZKcV9wS2ZWZWFfaW1HTGZma0hYbDVucU1aMW5lR3hkQjF6SjNqQjBWZEFqcDkxNEpFb2dxYnFpWWI3WG9FLUJDZ1AzTGF5dTZadG9YQW5OenVKa095dGREVDJBTHU0YnhDaQ?oc=5",
+                "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9mQTI4VlRuT2lNb28zU29SczB4VEstR0RXZFcxTkFhOVZkTThaMmFTRndyRFpxa1VCVjdBSktzRkdNWUo4U0JEalZVRkozN29ENTJ0Y3JVUEpoT1F2THc?oc=5",
                 "image": "file:///C:/Users/yhisa/.gemini/antigravity/brain/3ec1b64c-9fb8-4f1b-bf97-7bf3efc89321/startup_news_thumbnail.png",
-                "summary": "<span class='highlight'>AI要約:</span><br>*   「伝説のバンカー」と称された人物による、スタートアップ成長術に関する書籍の紹介。<br>*   同書は、新興企業を圧倒的に成長させるための実践的な仕事術を詳細に解説する。<br>*   公開された「はじめに」では、その独自のノウハウの導入部分が提示されている。",
+                "summary": "<span class='highlight'>AI要約:</span><br>*   琉球銀行は、スタートアップ支援を専門とするHAKKIとの提携を発表。<br>*   両者は沖縄県内の起業家育成と事業成長を加速させるため、支援体制を強化する方針。<br>*   資金調達から経営ノウハウ提供まで一貫したサポートを通じて、地域経済の活性化を目指す。",
                 "original": "..."
             },
             {
-                "title": "北九州の新産業創出へ、スタートアップ交流イベント - J-Net21[中小企業ビジネス支援サイト]",
+                "title": "「SWISH! マウンテン《Founders' Climb 2026》」登壇スタートアップ8社が決定。投資家4名が審査員に追加参画し、長野県庁を含め計13名に。2026年9月27日（日）軽井沢にて開催 - PR TIMES",
                 "source": "Google News",
                 "time": "本日",
-                "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1kd0Q0UjFDSFh5cjdFc0xpWXBJRUtFcnVaSzBtWE1DOGtIMmVNMzVLV040T1RJYVFaYjA1dzBreUd6d0FMN05DMzZXYS1JTl9LcEJYc3pWZkNDMnJGb2lxQ1o5Zw?oc=5",
+                "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9nbkxoQzJOUFFhWmxOeFkzeWl5UVlCVGVDTkx0Tzc3TTR5NFRsa3IyNEkyaDZNSVhzRGdidG9SLVZmVFRGNWNSc3FnRTFyNUhTQU1naWdZclVtLV85LUFwVTRDNVZqYU1Ya3c?oc=5",
                 "image": "file:///C:/Users/yhisa/.gemini/antigravity/brain/3ec1b64c-9fb8-4f1b-bf97-7bf3efc89321/startup_news_thumbnail.png",
-                "summary": "<span class='highlight'>AI要約:</span><br>以下に想定されるニュースの概要を箇条書きで記します。<br><br>*   北九州市において、新産業の創出を目指すスタートアップ交流イベントが開催される。<br>*   地域経済の活性化とイノベーション促進を目的とし、企業間の連携強化が図られる。<br>*   J-Net21などのビジネス支援機関が関与し、中小企業の具体的な事業化を後押しする。",
+                "summary": "<span class='highlight'>AI要約:</span><br>想定されるニュースの概要は以下の通りです。<br><br>*   2026年9月27日に軽井沢で開催されるスタートアップ支援イベント「SWISH! マウンテン《Founders' Climb 2026》」において、登壇する8社が決定した。<br>*   審査体制は、投資家4名が新たに加わり、長野県庁関係者を含め総勢13名で構成される。<br>*   本イベントは、地域のイノベーション創出と投資家との連携強化を目的としているとみられる。",
                 "original": "..."
             },
             {
-                "title": "とちぎスタートアップキャラバン スペシャル - pref.tochigi.lg.jp",
+                "title": "インド、半導体2.0でチップ設計スタートアップ200社と技術者10万人育成を目標に - BigGo ファイナンス",
                 "source": "Google News",
                 "time": "本日",
-                "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9QTUpqNEJNNVR4YUhhdkZPT0tZZWJsRjVSREdaU01LdDVlU3hJNHZXTDVhWndRNzdVZXB1ZjhCRmxraVhNcVRjMHVmTDBDbC1jR2traEcxcWw5bndpNjJtTGZHSHJTNXk5NnI5RDhzSV9XRmNYX2c?oc=5",
+                "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5GVDlybmY1ekxrZVdkTVQ5bllXWFJLTFVtQXBlZWN6UEtJc2sweUUzdGpSRWlwU203SWdKRmlCbjNDNGFyVXZhQjBWaEFDMldHQnJOUHByNlR2YkhXeEhZQ0owLUU0aEtRTERMVXplb1NLYkxx?oc=5",
                 "image": "file:///C:/Users/yhisa/.gemini/antigravity/brain/3ec1b64c-9fb8-4f1b-bf97-7bf3efc89321/startup_news_thumbnail.png",
-                "summary": "<span class='highlight'>AI要約:</span><br>以下に想定されるニュース概要を記す。<br><br>*   栃木県は、地域経済の活性化とイノベーション促進を目的とした「とちぎスタートアップキャラバン スペシャル」の開催を発表した。<br>*   本企画は、県内スタートアップ企業の成長加速を支援するため、特別なコンテンツや著名人による講演、個別相談会などを盛り込む。<br>*   参加企業と支援者との連携を強化し、新たなビジネス創出と産業振興への貢献が期待される。",
+                "summary": "<span class='highlight'>AI要約:</span><br>以下にニュースの概要を箇条書きで示します。<br><br>*   インド政府は、次世代半導体分野「半導体2.0」戦略に本格着手した。<br>*   チップ設計スタートアップ200社の創出と、10万人規模の専門技術者育成を目標に据える。<br>*   国内半導体産業エコシステムの構築とグローバル競争力の強化を図る。",
                 "original": "..."
             }
         ]
@@ -67,30 +67,30 @@
         "name": "国立大学",
         "articles": [
             {
-                "title": "文科省、国立大で研究セキュリティ人材の共同化を提案 複数大学で専門人材を共有、経済安保とオープン研究の両立へ - 合同会社ロケットボーイズ",
-                "source": "Google News",
-                "time": "本日",
-                "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMTgzNVg0QjhFUHdPRlRiRHpEQV94aVdJZmpuWjUtMElnOXctYnJvODhzeVRlUjd3c2pVV3hGdEpoYVdWTXZuNkdwQTJFeFI4emtOcEg2UldaWEJYWDZIQndhSU1XZVVjeS1HdkFYbmVaOGdNZ01jSDN3RGhOeGkzZ01SRk9jeDMtOXFjQWRkQnJkRlE?oc=5",
-                "image": "file:///C:/Users/yhisa/.gemini/antigravity/brain/3ec1b64c-9fb8-4f1b-bf97-7bf3efc89321/university_news_thumbnail.png",
-                "summary": "<span class='highlight'>AI要約:</span><br>以下、想定されるニュースの概要です。<br><br>*   文部科学省は、国立大学における研究セキュリティ人材の共同化を提案しました。<br>*   複数大学間で専門人材を共有することで、各大学の研究情報管理体制を強化する狙いです。<br>*   これにより、経済安全保障の確保とオープンな国際共同研究の維持という喫緊の課題の両立を図る方針です。",
-                "original": "..."
-            },
-            {
-                "title": "東ティモール国立大学工学系大学院能力向上プロジェクト （CADEGRADE） - jica.go.jp",
-                "source": "Google News",
-                "time": "本日",
-                "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5Ia2pNQU1jdW9GUzk3VGhFR0VucFVOTXBHZHpyZEQ2Z1M5WTk4T1RleFRqSXpPSl9acndLenNXVVNYV1RhQnlaTTdtLWxheXktbDRibkNZWm56MUxvQW00ZmtSYTRVUQ?oc=5",
-                "image": "file:///C:/Users/yhisa/.gemini/antigravity/brain/3ec1b64c-9fb8-4f1b-bf97-7bf3efc89321/university_news_thumbnail.png",
-                "summary": "<span class='highlight'>AI要約:</span><br>以下にニュース概要を箇条書きで示します。<br><br>*   国際協力機構（JICA）は、東ティモール国立大学工学系大学院の能力向上プロジェクトを実施。<br>*   同大学院の教育• 研究体制の強化を図り、工学分野における高度専門人材の育成を支援。<br>*   これにより、東ティモールの産業発展と持続可能な社会構築への貢献が期待される。",
-                "original": "..."
-            },
-            {
-                "title": "研究セキュリティー人材の共有 文科省が国立大の業務見直し案 経済安保拡大に対応 - sankei.com",
+                "title": "研究セキュリティー人材の共有 文科省が国立大の業務見直し案 経済安保拡大に対応 - 産経ニュース",
                 "source": "Google News",
                 "time": "本日",
                 "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5RRTh5X2VmdGRMR1VDLUNDa1FzVGVFRGc1Zlc4Wl90ZnUyaWFKLUlXOFZjaFRwOFNoUldtZjN0dkxhZ2hTcWZ6LVhDTV85M05WSW1fak5UeHZzTVhYVVVNWmQ1TllCend4dlF6MEp3cERwQkpPTGc?oc=5",
                 "image": "file:///C:/Users/yhisa/.gemini/antigravity/brain/3ec1b64c-9fb8-4f1b-bf97-7bf3efc89321/university_news_thumbnail.png",
-                "summary": "<span class='highlight'>AI要約:</span><br>想定されるニュースの概要は以下の通りです。<br><br>*   文部科学省は、経済安全保障の強化に対応するため、国立大学における研究セキュリティー体制の見直し案を提示した。<br>*   同案は、大学間の専門人材の共有を柱とし、重要技術の流出防止へ実効性を高める狙いがある。",
+                "summary": "<span class='highlight'>AI要約:</span><br>*   文部科学省は、経済安全保障の拡大に対応するため、国立大学の業務見直し案を提示した。<br>*   同案は、研究セキュリティーを担う専門人材の国立大学間での共有促進を主眼とする。<br>*   先端技術の流出防止と研究基盤の強化を目的とした施策。",
+                "original": "..."
+            },
+            {
+                "title": "生駒市（ischool）× 国立大学法人奈良国立大学機構「自分らしいキャリアの選び方 －自分を理解し、納得してこれからを選ぶー」講座の開催について - city.ikoma.lg.jp",
+                "source": "Google News",
+                "time": "本日",
+                "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE95RXRWMExCM1dYZ0czTG5yR3pQd0t2NnkyajFtSGlBdGVMNmdsWEM0YnhvS1gta1ZUUkhScC1BV182RHloUnJnSjg4Mkc0MF9sbGttand3QQ?oc=5",
+                "image": "file:///C:/Users/yhisa/.gemini/antigravity/brain/3ec1b64c-9fb8-4f1b-bf97-7bf3efc89321/university_news_thumbnail.png",
+                "summary": "<span class='highlight'>AI要約:</span><br>以下にニュースの概要を箇条書きで示します。<br><br>*   生駒市（ischool）と国立大学法人奈良国立大学機構が連携し、共同教育講座を開催する。<br>*   講座は「自分らしいキャリアの選び方」を主題とし、自己理解に基づく納得のいく進路選択支援を目的とする。<br>*   本企画は、地域住民のキャリア形成促進に向けた新たな官学連携の取り組みとなる。",
+                "original": "..."
+            },
+            {
+                "title": "文科省、国立大で研究セキュリティ人材の共同化を提案 複数大学で専門人材を共有、経済安保とオープン研究の両立へ - rocket-boys.co.jp",
+                "source": "Google News",
+                "time": "本日",
+                "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMTgzNVg0QjhFUHdPRlRiRHpEQV94aVdJZmpuWjUtMElnOXctYnJvODhzeVRlUjd3c2pVV3hGdEpoYVdWTXZuNkdwQTJFeFI4emtOcEg2UldaWEJYWDZIQndhSU1XZVVjeS1HdkFYbmVaOGdNZ01jSDN3RGhOeGkzZ01SRk9jeDMtOXFjQWRkQnJkRlE?oc=5",
+                "image": "file:///C:/Users/yhisa/.gemini/antigravity/brain/3ec1b64c-9fb8-4f1b-bf97-7bf3efc89321/university_news_thumbnail.png",
+                "summary": "<span class='highlight'>AI要約:</span><br>以下にニュースの概要を箇条書きで示します。<br><br>*   文部科学省は、国立大学における研究セキュリティ体制の強化に向け、専門人材の共同活用を提案。<br>*   複数大学間で高度な知識を持つ人材を共有することで、経済安全保障の確保とオープンな研究環境の維持を両立させる方針。<br>*   これにより、技術流出防止と国際競争力維持を図り、研究機関の情報管理体制を強化する狙い。",
                 "original": "..."
             }
         ]
@@ -99,30 +99,30 @@
         "name": "ゲーム",
         "articles": [
             {
-                "title": "日本ゲーム大賞2026受賞作まとめ。『ぽこ あ ポケモン』が大賞を受賞。ゲームデザイナーズ大賞は『文字遊戯』がラストイヤーを飾る。優秀賞は『まのさば』『バイオレクイエム』『エアライダー』など - ファミ通",
+                "title": "東京ゲームショウ2026開幕 試遊に加えより作品空間を楽しむ会場に（中村仁） - エキスパート - Yahoo!ニュース",
                 "source": "Google News",
                 "time": "本日",
-                "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE95bDVVbnZnc3Nkb0tfS2NZdWhtMmU4OERqeVg3UE9XVkI0cjdiOWFiNTh2Y1NuR2NHcy1HX1pfYUhXZDA1X3daVW82LUY3MVB3UEg0aXBxNA?oc=5",
+                "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYWRjcEs4SjJCSGcyak1xRW9TcU9IdVZTS0VORzRha1F6dUtOWHhVZ0ZPX3I0enZVWkhWUi1wQ0hWc0xBdlBsSWRLWkRwTHhQaTVyRjNDbHBmME9WVUl5TXJ2NXZCVi1QVHI2emtHXzZmQ2twcVl6a0FjanhtWFcxS2pCSFpNUXRQ?oc=5",
                 "image": "file:///C:/Users/yhisa/.gemini/antigravity/brain/3ec1b64c-9fb8-4f1b-bf97-7bf3efc89321/game_news_thumbnail.png",
-                "summary": "要約の生成に失敗しました。（429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 26.497735405s. [links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 20\n}\n, retry_delay {\n  seconds: 26\n}\n]）",
+                "summary": "<span class='highlight'>AI要約:</span><br>*   東京ゲームショウ2026が開幕した。<br>*   会場では従来のゲーム試遊に加え、作品の世界観を深く体験できる空間演出が重視された。<br>*   これは来場者に対し、より没入感のある新たなエンターテイメント体験を提供する試みである。",
                 "original": "..."
             },
             {
-                "title": "「日本ゲーム大賞2026」大賞は『ぽこ あ ポケモン』！優秀賞全12タイトル、話題の『めっちゃカメレオン』など受賞作品ひとまとめ - news.yahoo.co.jp",
+                "title": "伝説のアクションRPG「天地創造」移植版の発売日決定！ 東京ゲームショウで試遊出展 - GAME Watch",
                 "source": "Google News",
                 "time": "本日",
-                "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE93MEJYTElISjZQblhsLXpnWmw2YzZPZHZIbFdXSEpJdUw3Q3hRLXVocXQ4aFdpZ2k4dGNNOUxWLTM3RVNibHdzNDhPTDhXNU5OdVBTbUFhUV9MUndUcDBDTlFzTFpPZllMVVplSVJoc3d6VWQxZ2pjajBWcHNtWWc?oc=5",
+                "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9oU09DckRSY2ZOR0Q3ZmRZd0g4VGZfUFNRT0UzcjVwVzZqamRQZ093TTVIcjF3M1U2Wl9ZZEhKQ18zd211U1JreUJtMjJLODhkUFhkWVVFSkZXVy1ZWjlwRUJyTk5jQQ?oc=5",
                 "image": "file:///C:/Users/yhisa/.gemini/antigravity/brain/3ec1b64c-9fb8-4f1b-bf97-7bf3efc89321/game_news_thumbnail.png",
-                "summary": "要約の生成に失敗しました。（429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 11.27411664s. [links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 20\n}\n, retry_delay {\n  seconds: 11\n}\n]）",
+                "summary": "<span class='highlight'>AI要約:</span><br>以下に、ニュースの概要を箇条書きで示します。<br><br>*   伝説的アクションRPG『天地創造』の移植版について、発売日が決定。<br>*   東京ゲームショウにて、本作の試遊出展が行われることが判明。<br>*   往年の名作が現代のプラットフォームで楽しめる機会が提供される。",
                 "original": "..."
             },
             {
-                "title": "「文字遊戯」が日本ゲーム大賞2026「ゲームデザイナーズ大賞」受賞！ 桜井氏登壇「ゲームデザイナーズ大賞は今年で最後」 - GAME Watch",
+                "title": "『FF7 リベレーション』クラウドとティファの距離感や、セフィロスの行動に最終章ならではの変化!? シド、ヴィンセントでバトルもたっぷり試遊【TGS2026】 - ファミ通",
                 "source": "Google News",
                 "time": "本日",
-                "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE91b0hCVDFobTRPTllrZFlhd0dzTjRoSDI5TXFIRUx4alVSckY3SUFzRFRrTXk0UWVERmE4N3Y0UldjUmV1aVpnWi1jNVU0YnE3bjhsTlJPbk42eFlFZS1oYklHWEgyQQ?oc=5",
+                "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5BeGllR2o4UnJZWV9WYmZUbHQtNW9MODVCN3AtS2hXTWV1ZmhqT1I5UXNYb3JzZkJ6M1l4S0lFbTF0QXZycm1BUUdPVmx1U3NkV1hkbTB4SQ?oc=5",
                 "image": "file:///C:/Users/yhisa/.gemini/antigravity/brain/3ec1b64c-9fb8-4f1b-bf97-7bf3efc89321/game_news_thumbnail.png",
-                "summary": "要約の生成に失敗しました。（429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 56.060425903s. [links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 20\n}\n, retry_delay {\n  seconds: 56\n}\n]）",
+                "summary": "<span class='highlight'>AI要約:</span><br>想定されるニュースの概要は以下の通りです。<br><br>*   TGS2026において、『FF7 リベレーション』の試遊詳細が報じられた。<br>*   物語は最終章を迎え、クラウドとティファの距離感や、セフィロスの行動における変化が示唆されている。<br>*   シド、ヴィンセントが操作可能キャラクターとして登場し、多数のバトル要素が体験可能であることが判明した。",
                 "original": "..."
             }
         ]
