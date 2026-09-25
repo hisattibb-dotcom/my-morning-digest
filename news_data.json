@@ -1,130 +1,18 @@
 {
     "top-news": {
         "name": "主要ニュース",
-        "articles": [
-            {
-                "title": "習近平氏、出迎えのトランプ氏と握手…米アンドルーズ空軍基地に到着 - 読売新聞",
-                "source": "Google News",
-                "time": "本日",
-                "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1zeWhlMVdxMDJKbEdNa20zNmt3S1VIbVJFLV9YbjA2WHA0aGZmZFRHZGlQQ1g0ZEFXZXlOWDhmQVBJRDg0cTVwbWpoMDVuT2NORmEyTWZvV0wtQzdCQW15ZmJ3?oc=5",
-                "image": "file:///C:/Users/yhisa/.gemini/antigravity/brain/3ec1b64c-9fb8-4f1b-bf97-7bf3efc89321/top-news_news_thumbnail.png",
-                "summary": "<span class='highlight'>AI要約:</span><br>以下に、想定されるニュースの概要を硬派な文体でまとめます。<br><br>*   中国の習近平国家主席が米アンドルーズ空軍基地に到着、訪米が開始された。<br>*   トランプ米大統領自らが出迎え、両首脳は初顔合わせで固い握手を交わした。<br>*   今後、貿易摩擦や地域情勢など山積する課題を巡り、本格的な首脳会談が開始される見通しだ。",
-                "original": "..."
-            },
-            {
-                "title": "台風25号 10人死亡4人不明 北印旛沼周辺で浸水被害 復旧急ぐ - NHKニュース",
-                "source": "Google News",
-                "time": "本日",
-                "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAtS0c2ckt1QU1HU2ZfUTdkY3V3UUI1SUJsNG1ZQ3ZfZnNYcldQTDRyaUF3enpKbUZDVkJfZnJWR0hUVXAtY0ljbkN2UzY2eEt0VE50SDY0c3kycWVrRnow?oc=5",
-                "image": "file:///C:/Users/yhisa/.gemini/antigravity/brain/3ec1b64c-9fb8-4f1b-bf97-7bf3efc89321/top-news_news_thumbnail.png",
-                "summary": "<span class='highlight'>AI要約:</span><br>*   台風25号の直撃により、全国で10名の死亡、4名の行方不明が確認された。<br>*   特に千葉県北印旛沼周辺では広範囲にわたる浸水被害が発生し、住民生活に甚大な影響が出ている。<br>*   被災地では、ライフラインの復旧と生活再建に向けた緊急の対応が急ピッチで進められている。",
-                "original": "..."
-            },
-            {
-                "title": "高市首相「日米同盟の強さを世界に示す」米中会談2日前の日米会談、対中連携で示せた収穫 - 産経ニュース",
-                "source": "Google News",
-                "time": "本日",
-                "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA0UXB6T1Y0cnJ0em95WmlPOGtZVUxLMXdLenNpRW5Yd0VlRWtrRDRhQ1dqYjVWWmtiOW4tQkptVmJBMlNoRlFPbHlhVU84N2NVVUZuOWdiNEtEbDVWSGYwSjgwVVZDQXpLS0RwUEVkVzJabkdiUkE?oc=5",
-                "image": "file:///C:/Users/yhisa/.gemini/antigravity/brain/3ec1b64c-9fb8-4f1b-bf97-7bf3efc89321/top-news_news_thumbnail.png",
-                "summary": "<span class='highlight'>AI要約:</span><br>*   米中会談を目前に控え、高市首相は米国首脳との会談を実施。<br>*   首相は「日米同盟の強さを世界に示す」と表明し、両国の強固な連携を強調した。<br>*   本会談は、対中連携の強化において一定の収穫があったものと見られる。",
-                "original": "..."
-            }
-        ]
+        "articles": []
     },
     "startup": {
         "name": "スタートアップ",
-        "articles": [
-            {
-                "title": "「AIを売る」から「現場を買う」へ。スタートアップが現場に入ってAIネイティブな製造業モデル構築を開始 - ASCII.jp",
-                "source": "Google News",
-                "time": "本日",
-                "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE85N3pISVZ0TFBES0dtS1Eya042TlFlV2U0UWVfdTQ0ekRYVVdzbVlVWDV3U0dqeEtBclc2a2stVFV5aWRzXzEzWE82eTdvc1lweDVOOA?oc=5",
-                "image": "file:///C:/Users/yhisa/.gemini/antigravity/brain/3ec1b64c-9fb8-4f1b-bf97-7bf3efc89321/startup_news_thumbnail.png",
-                "summary": "<span class='highlight'>AI要約:</span><br>以下、想定されるニュースの概要です。<br><br>*   スタートアップ企業が、従来のAIソリューション提供型ビジネスから方針を転換し、製造現場への直接的な関与を強化。<br>*   「AIを売る」のではなく「現場を買う」というアプローチで、製造現場に深く入り込み、AIを基盤とした新たなビジネスモデルの構築を開始した。<br>*   これは、単なるAI導入に留まらず、AIを前提とした抜本的な産業構造変革を目指す動きとみられる。",
-                "original": "..."
-            },
-            {
-                "title": "最高にできる人でも採用してはいけないちょっとした振る舞い・ワースト1 - ダイヤモンド・オンライン",
-                "source": "Google News",
-                "time": "本日",
-                "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBwNEpPVzQwbEZfeG9Ub3JYZWVJOUZjUWdHdkNMVEVwbjBrcjRraTVKTEgtRElIUmN1emphRFJxYnZCV1lnT3Y5NGFCRVTSAU9BVV95cUxOUnRrckhrbzdVd1FsTVdQaHcwbHBoMzV2RDVVMWo3blNZNERCbHEyTWpMTVpmSDlySVNDWFBpR0JiLXJMVlNFV1VfblN0eXNZ?oc=5",
-                "image": "file:///C:/Users/yhisa/.gemini/antigravity/brain/3ec1b64c-9fb8-4f1b-bf97-7bf3efc89321/startup_news_thumbnail.png",
-                "summary": "<span class='highlight'>AI要約:</span><br>以下にニュースの概要を箇条書きで示します。<br><br>*   企業が優秀な人材を採用する際、能力のみならず、特定の些細な振る舞いが不採用の決定打となりうると指摘。<br>*   最高峰のスキルを持つ人物であっても、避けるべき「ワースト1」の行動を具体的に解説。<br>*   採用担当者に対し、組織文化やチームワークを損なう可能性のある潜在的リスクへの注意を喚起する内容。",
-                "original": "..."
-            },
-            {
-                "title": "シールで落とし物を返却 新たな仕組み開発 警視庁などと連携へ - NHKニュース",
-                "source": "Google News",
-                "time": "本日",
-                "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0yNXI1RG01Vl9iTXM3SHdabjhhbnZhdmQxaVI0ZktQUUpNd0dxN29hS2JvVV9FRy1WUkp4VG1PdjBIbGFGczZRRDlGRkxPSUk2MVc5ZnpacWZLODBKS293?oc=5",
-                "image": "file:///C:/Users/yhisa/.gemini/antigravity/brain/3ec1b64c-9fb8-4f1b-bf97-7bf3efc89321/startup_news_thumbnail.png",
-                "summary": "<span class='highlight'>AI要約:</span><br>以下にニュースの概要を要約します。<br><br>*   落とし物の返却を迅速化する新たな仕組みが開発された。<br>*   専用のシールを活用し、個人情報を保護しながら落とし主への返還を目指す。<br>*   警視庁など関係機関との連携を通じて、今後の本格導入が図られる見込みである。",
-                "original": "..."
-            }
-        ]
+        "articles": []
     },
     "university": {
         "name": "国立大学",
-        "articles": [
-            {
-                "title": "化学教授がシンガポールの名門大学を離れ、中国に新設された大学に移籍。 - Vietnam.vn",
-                "source": "Google News",
-                "time": "本日",
-                "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdG1sY0tBUjFtS0VUU3A1Z3gzWnZsbG0tUFRZSmlxcGhBMi1jSzVKMnMwcVBvTUtjendjSGlxQ2c1dnZJQUtBNjNKQ2ZJX0lQX0ljVnRuSXZHRUY3S1h1Y29vX1gwT290TXJydkE4S1J3eWM3SnVHZEZtXzhlRTh2YWVRTmJzZi1nZmtSa1dQVTZ6UDdWYTNaeWp5b0RudF9rNWtna3FXNA?oc=5",
-                "image": "file:///C:/Users/yhisa/.gemini/antigravity/brain/3ec1b64c-9fb8-4f1b-bf97-7bf3efc89321/university_news_thumbnail.png",
-                "summary": "<span class='highlight'>AI要約:</span><br>*   シンガポールの名門大学に所属する化学教授が、その職を離れることが判明した。<br>*   同教授は中国に新設された大学へ移籍すると報じられている。<br>*   これは、アジア地域における学術人材の国際的な流動性と獲得競争の激化を示すものとみられる。",
-                "original": "..."
-            },
-            {
-                "title": "【岡山大学】令和8年版「科学技術・イノベーション白書」（文部科学省）において、岡山大学のJ-PEAKSの取り組みが紹介 - PR TIMES",
-                "source": "Google News",
-                "time": "本日",
-                "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9UWWtTSWEyRWFjZG5ucXJic2J4X3IwNmFDM0RGcFlVOGhVYWNyWEpxNy0taGpwaWN2STJWXzJjdEcyQ0JqcG15NVRHTW9RNDgzVm9FOWpmdFBPRmgwd2tvMjhXWlRCNEtQUkE?oc=5",
-                "image": "file:///C:/Users/yhisa/.gemini/antigravity/brain/3ec1b64c-9fb8-4f1b-bf97-7bf3efc89321/university_news_thumbnail.png",
-                "summary": "<span class='highlight'>AI要約:</span><br>以下にニュースの概要を箇条書きで示します。<br><br>*   岡山大学の特定の取り組みが、文部科学省発行の「科学技術• イノベーション白書」に紹介される運びとなった。<br>*   対象となるのは、同大学が推進する科学技術• イノベーションに関する「J-PEAKS」の取り組み。<br>*   令和8年版の白書に掲載されることで、その先進的な活動が国の注目を集めるものと見られる。",
-                "original": "..."
-            },
-            {
-                "title": "研究セキュリティー人材の共有 文科省が国立大の業務見直し案 経済安保拡大に対応 - 産経ニュース",
-                "source": "Google News",
-                "time": "本日",
-                "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5RRTh5X2VmdGRMR1VDLUNDa1FzVGVFRGc1Zlc4Wl90ZnUyaWFKLUlXOFZjaFRwOFNoUldtZjN0dkxhZ2hTcWZ6LVhDTV85M05WSW1fak5UeHZzTVhYVVVNWmQ1TllCend4dlF6MEp3cERwQkpPTGc?oc=5",
-                "image": "file:///C:/Users/yhisa/.gemini/antigravity/brain/3ec1b64c-9fb8-4f1b-bf97-7bf3efc89321/university_news_thumbnail.png",
-                "summary": "<span class='highlight'>AI要約:</span><br>*   文部科学省は、経済安全保障の拡大に対応すべく、国立大学の業務見直し案を提示した。<br>*   この案の柱は、大学間での研究セキュリティー人材の共有促進であり、効率的な専門人材の配置を目指す。<br>*   重要技術の海外流出防止と、研究機関全体のセキュリティー体制強化を図る狙いがある。",
-                "original": "..."
-            }
-        ]
+        "articles": []
     },
     "game": {
         "name": "ゲーム",
-        "articles": [
-            {
-                "title": "【コンアカ】『カラテ・チャンプ』9月24日より配信。ゲーム本編は海外版のみ収録（テキストも英語のみ） - ファミ通",
-                "source": "Google News",
-                "time": "本日",
-                "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE90VFlORVlzNmFIRVlscWVyeHlXMVFqSElqc1pSN3VCaVllQjlWQmh4YUlQLXhsdzQ4Qi1ESEstZ3V2ZTZoSWVJNmNGN2JwWFd6cUY0M29Jcw?oc=5",
-                "image": "file:///C:/Users/yhisa/.gemini/antigravity/brain/3ec1b64c-9fb8-4f1b-bf97-7bf3efc89321/game_news_thumbnail.png",
-                "summary": "<span class='highlight'>AI要約:</span><br>想定されるニュースの概要は以下の通りです。<br><br>*   ゲーム「カラテ• チャンプ」が9月24日より配信を開始。<br>*   本編は海外版のみの収録となる。<br>*   テキストは全編英語での提供。",
-                "original": "..."
-            },
-            {
-                "title": "［インタビュー］家庭用ゲーム機版も発表された「Shape of Dreams」。少人数チームが直面した外部協業の苦労やゲームデザインの裏側とは - 4Gamer.net",
-                "source": "Google News",
-                "time": "本日",
-                "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4tbHdHc1RCOEdBRG50VVFUdnJka2h2VWY0Ql9BenBJOWtzbGJVOENJTUtER0lKUEVnaVBBX3dYdHNkbV9vUE9RNDVZQXRNbkRBdzMtdDVHUkVuR2FkWUFOaTVscw?oc=5",
-                "image": "file:///C:/Users/yhisa/.gemini/antigravity/brain/3ec1b64c-9fb8-4f1b-bf97-7bf3efc89321/game_news_thumbnail.png",
-                "summary": "<span class='highlight'>AI要約:</span><br>以下、想定されるニュースの概要です。<br><br>*   家庭用ゲーム機版が発表されたゲーム「Shape of Dreams」の開発チームへのインタビュー記事。<br>*   少人数体制での開発において直面した外部協業時の課題や苦労が焦点。<br>*   ゲームデザインの意図や開発の舞台裏に関する詳細が明らかにされる。",
-                "original": "..."
-            },
-            {
-                "title": "『追放された転生重騎士はゲーム知識で無双する』第2クールのPV公開 追加キャスト4人発表でOPは常闇トワ、EDはPompadollS - オリコンニュース",
-                "source": "Google News",
-                "time": "本日",
-                "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9WTWFYR19aaDdjU2tRS3JuTFJSQ0g3cDJCZGVzOXVHNW1CZnltRW9zWGg3SzN1bTUwU1hUYXpQc2R4V0cyUlRraVdVYTVDN1BaRXdjZUhR?oc=5",
-                "image": "file:///C:/Users/yhisa/.gemini/antigravity/brain/3ec1b64c-9fb8-4f1b-bf97-7bf3efc89321/game_news_thumbnail.png",
-                "summary": "<span class='highlight'>AI要約:</span><br>以下にニュース概要を箇条書きで記します。<br><br>*   アニメ『追放された転生重騎士はゲーム知識で無双する』の第2クールPVが公開された。<br>*   新たに4名の追加キャストが発表され、作品の陣容が拡充された。<br>*   OPテーマを常闇トワ、EDテーマをPompadollSがそれぞれ担当することが明らかになった。",
-                "original": "..."
-            }
-        ]
+        "articles": []
     }
 }
