@@ -1,18 +1,130 @@
 {
     "top-news": {
         "name": "主要ニュース",
-        "articles": []
+        "articles": [
+            {
+                "title": "印旛沼決壊、養殖のウナギ「全滅だろう」・４代続く稲作農家「廃業も考えざるを得ない」…農漁業に大打撃 - 読売新聞",
+                "source": "Google News",
+                "time": "本日",
+                "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5fNl92Y0VCRnZCeUZ0MmxJcTNVOEl1eUVrMFVGbnJ1NllwcERsRnlTZHRibWV5RHRtY0szU3dRaGRyM1c5SXVUYXlMZHRxOHhINnc0TFZoRzV4bGpIdWxrVHI5VjRKQQ?oc=5",
+                "image": "file:///C:/Users/yhisa/.gemini/antigravity/brain/3ec1b64c-9fb8-4f1b-bf97-7bf3efc89321/top-news_news_thumbnail.png",
+                "summary": "<span class='highlight'>AI要約:</span><br>*   印旛沼の決壊により、周辺地域の農業• 漁業に壊滅的な被害が発生した。<br>*   養殖ウナギは全滅の見通しとなり、４代続く稲作農家は廃業を検討する事態に追い込まれている。<br>*   この災害は、地域の基幹産業である農漁業全体に深刻な打撃を与え、復興に多大な課題を残す。",
+                "original": "..."
+            },
+            {
+                "title": "「習氏より先に言うとは…」 トランプ氏発言、日本政府内に困惑 - 毎日新聞",
+                "source": "Google News",
+                "time": "本日",
+                "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9udWd0TTFXcGREcmYyalpfbXhYVy1Tb2ttcTdFRW51YzNmZWpoSE5HR1psekRrSXhRV3JTb1lubmF5VVJnT2tXWTRJc3hQZmhESUxma2JZWFY0NEJfaVMwd21USlppSERV?oc=5",
+                "image": "file:///C:/Users/yhisa/.gemini/antigravity/brain/3ec1b64c-9fb8-4f1b-bf97-7bf3efc89321/top-news_news_thumbnail.png",
+                "summary": "<span class='highlight'>AI要約:</span><br>以下、想定されるニュースの概要です。<br><br>*   トランプ前米大統領の発言が、中国の習近平国家主席による公式発表に先んじる形でなされた。<br>*   この発言のタイミングが外交プロトコルの逸脱と見なされ、日本政府内に強い困惑を招いた。<br>*   日米中間の連携体制や、日本の今後の外交戦略への影響が懸念される状況にある。",
+                "original": "..."
+            },
+            {
+                "title": "台風26号(スリゲ) 沖縄は影響が長引くおそれ 来週は日本の南へ - ウェザーニュース",
+                "source": "Google News",
+                "time": "本日",
+                "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9tWWRjVlNER0RkQkIteVBNRnF2WUI2MmFNNHMxbDNMLW0xSzFfYXlvUW1ILXVjeVBqcVVySHNtdk9MYzc0X210cHBFajFrY0FXbF94WQ?oc=5",
+                "image": "file:///C:/Users/yhisa/.gemini/antigravity/brain/3ec1b64c-9fb8-4f1b-bf97-7bf3efc89321/top-news_news_thumbnail.png",
+                "summary": "<span class='highlight'>AI要約:</span><br>*   台風26号（スリゲ）が沖縄地方に接近中であり、その影響が長期化する懸念が示された。<br>*   沖縄地方では引き続き厳重な警戒が求められる状況である。<br>*   来週には、日本の南方海上へと進路を転じると予測されている。",
+                "original": "..."
+            }
+        ]
     },
     "startup": {
         "name": "スタートアップ",
-        "articles": []
+        "articles": [
+            {
+                "title": "「日本スタートアップ大賞2026」の表彰式を行いました - meti.go.jp",
+                "source": "Google News",
+                "time": "本日",
+                "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4zdkNKeTZpWnUxdS1VTVdwc3NQWHZpdXZNRkw5OWpkRDBMWVVEZVNoSTdfeHhMT29HRlJxVVAya3ZhdmlwTWFPX0k5VmVza28wUzdsUUExZEF6ZjI0MG16X2xRbw?oc=5",
+                "image": "file:///C:/Users/yhisa/.gemini/antigravity/brain/3ec1b64c-9fb8-4f1b-bf97-7bf3efc89321/startup_news_thumbnail.png",
+                "summary": "<span class='highlight'>AI要約:</span><br>以下、想定されるニュースの概要です。<br><br>*   経済産業省は、「日本スタートアップ大賞2026」の表彰式を挙行した。<br>*   国内の革新的なスタートアップ企業を顕彰し、その成長を支援するもの。<br>*   日本経済の活性化と国際競争力強化への貢献を目指す。",
+                "original": "..."
+            },
+            {
+                "title": "9月21〜25日 スタートアップ資金調達まとめ読み - nikkei.com",
+                "source": "Google News",
+                "time": "本日",
+                "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9nVDBtNGJxNm44UXBGZDM5R0VTVDY3cTRJSmVNWXRPZ19MazgzM3VaN2FXZm1iTkN1YjhSdGhFNnpVSnYyeTdiUXQwY1U3Vm9nOGd2Nm5tRFYyMDB4d011dHppU3BLS3hsY3FQaw?oc=5",
+                "image": "file:///C:/Users/yhisa/.gemini/antigravity/brain/3ec1b64c-9fb8-4f1b-bf97-7bf3efc89321/startup_news_thumbnail.png",
+                "summary": "<span class='highlight'>AI要約:</span><br>以下にニュースの概要を箇条書きで示します。<br><br>*   9月21日から25日の期間に国内スタートアップが実施した主要な資金調達案件を網羅的に報じる。<br>*   各資金調達事例の詳細、投資家情報、および当該スタートアップの事業戦略や成長性について解説する。<br>*   スタートアップ投資市場の最新動向を把握し、業界関係者や投資家にとって有益な情報を提供する。",
+                "original": "..."
+            },
+            {
+                "title": "日本スタートアップ大賞２０２６表彰式 - 首相官邸",
+                "source": "Google News",
+                "time": "本日",
+                "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBRUDM5SWRCNVA5eW05TUE3dDJ0aW5jQkRuVHQxWk54QkhQS28tOE9HVmd2YUEwOFV5NVdpTFdKYXJHcG5ROTNCX1JPWnFqN2dfcDNVT1NQdHAwemdXNGF5ZUg0Y1k3MmhkSmdGaGZ3?oc=5",
+                "image": "file:///C:/Users/yhisa/.gemini/antigravity/brain/3ec1b64c-9fb8-4f1b-bf97-7bf3efc89321/startup_news_thumbnail.png",
+                "summary": "<span class='highlight'>AI要約:</span><br>以下に想定されるニュースの概要を箇条書きで示します。<br><br>*   首相官邸にて「日本スタートアップ大賞２０２６」の表彰式が挙行された。<br>*   首相が臨席し、優れた事業を展開するスタートアップ企業が表彰された。<br>*   政府が進めるスタートアップ育成戦略の一環として、イノベーション創出と経済活性化を加速させる狙い。",
+                "original": "..."
+            }
+        ]
     },
     "university": {
         "name": "国立大学",
-        "articles": []
+        "articles": [
+            {
+                "title": "横浜国立大学 横浜市と産学連携でオンデマンド交通の実証運行を10/1（木）から開始 - 大学ジャーナルオンライン",
+                "source": "Google News",
+                "time": "本日",
+                "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFAxUmI3NUhndFRQRjhhRUh2M3VZRzRSdjRfYXpRb1pzU3JOcWNldkxMd3lhZ3hIRUF1UnlqNHUxMmhJU3pGQzZF?oc=5",
+                "image": "file:///C:/Users/yhisa/.gemini/antigravity/brain/3ec1b64c-9fb8-4f1b-bf97-7bf3efc89321/university_news_thumbnail.png",
+                "summary": "<span class='highlight'>AI要約:</span><br>想定されるニュースの概要は以下の通りです。<br><br>*   横浜国立大学と横浜市が産学連携により、オンデマンド交通の実証運行を開始する。<br>*   新たな移動サービスとして、その実用性や有効性を検証することが目的。<br>*   本運行は10月1日より開始される予定。",
+                "original": "..."
+            },
+            {
+                "title": "第37回国立大学法人産学連携センター教員等全国会議にて村下副学長（教授）が講演を行いました - hirosaki-u.ac.jp",
+                "source": "Google News",
+                "time": "本日",
+                "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFAxcm16aEh1Zy1JNWstT2ZMd3pWVlVMRzZWODZmYjFYY202b1BQTnloTnphMUtKS3l5dGhQcFlfdTlmSDdGclE5WEFFdEw?oc=5",
+                "image": "file:///C:/Users/yhisa/.gemini/antigravity/brain/3ec1b64c-9fb8-4f1b-bf97-7bf3efc89321/university_news_thumbnail.png",
+                "summary": "<span class='highlight'>AI要約:</span><br>以下にニュースの概要を箇条書きで記す。<br><br>*   弘前大学の村下副学長が、第37回国立大学法人産学連携センター教員等全国会議にて講演を行った。<br>*   講演では、同大学における産学連携の具体的な取り組み、成果、課題等が共有されたと推察される。<br>*   本講演は、全国の国立大学法人における産学連携活動の推進及び知見の深化に寄与するものとみられる。",
+                "original": "..."
+            },
+            {
+                "title": "三重大学と台湾の国立大学 半導体の研究グループ設置へ - NHKニュース",
+                "source": "Google News",
+                "time": "本日",
+                "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9nTlVyV2JqRWxPNnNocVJTNlR0NHRsT1o4T1dFdlVaQzAzT1NPVm5qU19wV1dndk1CSDFyMElIM3BXWl9fUFQ5Wkh1WnlRMkpCcXVqdjkzRTQ?oc=5",
+                "image": "file:///C:/Users/yhisa/.gemini/antigravity/brain/3ec1b64c-9fb8-4f1b-bf97-7bf3efc89321/university_news_thumbnail.png",
+                "summary": "<span class='highlight'>AI要約:</span><br>*   三重大学と台湾の国立大学が、半導体分野における共同研究グループの設立で合意した。<br>*   世界的な半導体技術競争力の強化と、次世代技術開発の加速が主な狙いである。<br>*   両国の学術連携を深め、半導体産業の発展及び人材育成に貢献する構えだ。",
+                "original": "..."
+            }
+        ]
     },
     "game": {
         "name": "ゲーム",
-        "articles": []
+        "articles": [
+            {
+                "title": "[みんなのケータイ]気になるPixel 11の挙動をいろんなゲームアプリで試してみました - ケータイ Watch",
+                "source": "Google News",
+                "time": "本日",
+                "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5OQ3Ixa1M4T2NoQlVoV1pMYW1qX0xNZ0V5ZDduM1RYQzhRLXFCZ09FQWFSeHVNb3FqZXFTZktIQjFRNzlKRDdfTWlCRU05WjNKN1BwY0tLVDRaQWhXUXBaX1V1Y3RaSm5rQnlCRVJMTE9aUQ?oc=5",
+                "image": "file:///C:/Users/yhisa/.gemini/antigravity/brain/3ec1b64c-9fb8-4f1b-bf97-7bf3efc89321/game_news_thumbnail.png",
+                "summary": "<span class='highlight'>AI要約:</span><br>以下は、想定されるニュースの概要です。<br><br>*   次期スマートフォン「Pixel 11」のゲームアプリにおける動作挙動を検証。<br>*   多様なゲームタイトルを用い、実使用環境下での処理性能や安定性を詳細に評価。<br>*   ユーザーが重視する快適なゲーム体験の可否について、その検証結果が詳報された。",
+                "original": "..."
+            },
+            {
+                "title": "『Thank You 4 Playing』ゲーム内SNSで情報を集めてボスを倒す推理パズルADVのSteam版がリリース決定。新ボスや新キャラなど、Steam版のみの追加要素も - ファミ通",
+                "source": "Google News",
+                "time": "本日",
+                "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5IdVhhd29tV1l0ZlJVSUpDb3k5cjdGZ1dHa2wxR0plZWRrMUZVZ0JSUFhYY3YxZFBFRUxjeVBkRHNoTldnMldhOUVMR19RZkZrQ2kxSkNFNA?oc=5",
+                "image": "file:///C:/Users/yhisa/.gemini/antigravity/brain/3ec1b64c-9fb8-4f1b-bf97-7bf3efc89321/game_news_thumbnail.png",
+                "summary": "<span class='highlight'>AI要約:</span><br>以下にニュースの概要を箇条書きで示します。<br><br>*   推理パズルADV『Thank You 4 Playing』のSteam版リリースが決定した。<br>*   本作はゲーム内SNSで情報を収集し、ボス攻略に挑む独自のシステムを採用。<br>*   Steam版では新ボスや新キャラクターなどの追加要素が実装される。",
+                "original": "..."
+            },
+            {
+                "title": "「小説は読者それぞれの正解を探れる」人気ゲーム「魔法使いの夜」、小説に生まれ変わらせる…原作者・奈須きのこさん「ワクワクして」（読売新聞オンライン） - Yahoo!ニュース",
+                "source": "Google News",
+                "time": "本日",
+                "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ncW1KTXJFZ2l1ckhONmE3VjNnTF81cHVPQkxoS0pYWGxhM1h5bWNpTW9SQm5nVWN1cWJXN3gydWt6djktSC1xRVNVdnVmc2lXS0RhZzNEcUI4SGZfeW5SdF9WN3N3S1VMa05pblZRR3lWM1hNa1lFeXZDY09kbk0?oc=5",
+                "image": "file:///C:/Users/yhisa/.gemini/antigravity/brain/3ec1b64c-9fb8-4f1b-bf97-7bf3efc89321/game_news_thumbnail.png",
+                "summary": "<span class='highlight'>AI要約:</span><br>*   人気ゲーム「魔法使いの夜」が小説として出版される見通し。<br>*   原作者の奈須きのこ氏は、小説形式が提供する読者個々の解釈に期待感を示した。<br>*   コンテンツの新たなメディア展開に前向きな姿勢を表明。",
+                "original": "..."
+            }
+        ]
     }
 }
