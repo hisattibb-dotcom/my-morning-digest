@@ -3,30 +3,30 @@
         "name": "主要ニュース",
         "articles": [
             {
-                "title": "米兵逮捕の強盗殺人事件 被害女性の首にコードのようなものか - NHKニュース",
+                "title": "ランサム集団キリンの中心メンバー、大阪で拘束 識者「活発に攻撃」 - 朝日新聞",
                 "source": "Google News",
                 "time": "本日",
-                "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1vajNqaWRaR0FTS1BNOGZvMDJYckxzem91RF9nQkxwUUs0Wnh1NVNjRUtYb3B5dzZiYVhyTm1kNXVEcVlGaTI3Mm5tZ1hpVUFyNThPeWN4dDlGeUYtUVdz?oc=5",
+                "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9zejlMTTFveHBKN2xMY2N6ZmF4QmxOeUp6SWpEaFBqaUtSLUZnTldsUzJPMjZUU1MxS3o3UUNXaDdlTFRBRld4cUtYbTg4RTEtU3hGRnN2NnNkUnU5QU85ckljYzhiXzQ?oc=5",
                 "image": "file:///C:/Users/yhisa/.gemini/antigravity/brain/3ec1b64c-9fb8-4f1b-bf97-7bf3efc89321/top-news_news_thumbnail.png",
-                "summary": "<span class='highlight'>AI要約:</span><br>以下に、想定されるニュースの概要を3行以内で箇条書きにまとめます。<br><br>*   米兵が逮捕された強盗殺人事件に関し、被害女性の死因に関する新情報が報じられた。<br>*   報道によると、被害女性の首には、犯行に用いられたとみられるコードのようなものが確認された模様。<br>*   捜査当局は、容疑者の供述と物証に基づき、事件の全容解明を急いでいる。",
+                "summary": "<span class='highlight'>AI要約:</span><br>以下にニュースの概要を3行以内の箇条書きで示します。<br><br>*   ランサムウェア集団「キリン」の中心メンバーが大阪府内で拘束された。<br>*   同集団は、識者から「活発に攻撃」していると指摘されるサイバー犯罪組織であった。<br>*   今回の身柄拘束は、国際的なサイバー犯罪対策の進展に繋がるものと見られる。",
                 "original": "..."
             },
             {
-                "title": "イエメン暫定政権、フーシ派に対する大規模軍事作戦開始 全土掌握目指す - Reuters",
+                "title": "サウジ連合軍が大規模攻撃 対フーシ派、イエメンで - 47NEWS",
                 "source": "Google News",
                 "time": "本日",
-                "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMHJxZ0s0NHZzMHZmNkFBaGkzTFMwTFVuOFRhNjUxT0lMYnAwckR6bXNfNkpBV3lDMkR0bDBONU1VajFvaDJzWE1tNmhlZkg0YktKV3VDenJhWkhDalFHQkpaMi1GS3laaHdaclRrZWJERHZ2TGJTQXJ4ZVlMbXliRFJGSWhyejQ?oc=5",
+                "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBvTEw2N3JhNFQ4R3hVZ3c2VmpodkNtbkplZU9DUGFoOEk4WmdtYXJMQWxFTmZEbE4tN2ZvNEQzdlQ2emU4RUFMTzBwZw?oc=5",
                 "image": "file:///C:/Users/yhisa/.gemini/antigravity/brain/3ec1b64c-9fb8-4f1b-bf97-7bf3efc89321/top-news_news_thumbnail.png",
-                "summary": "<span class='highlight'>AI要約:</span><br>以下、ニュースの概要です。<br><br>*   イエメン暫定政権が、反政府勢力フーシ派に対する大規模な軍事作戦を開始した。<br>*   同作戦は、イエメン全土の支配権を奪還することを最終目標としている。<br>*   これにより、長期化するイエメン内戦が新たな局面を迎えるとの観測が高まっている。",
+                "summary": "要約の生成に失敗しました。（429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash\nPlease retry in 39.668010424s. [links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerMinutePerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 5\n}\n, retry_delay {\n  seconds: 39\n}\n]）",
                 "original": "..."
             },
             {
-                "title": "簗農相「予算カット」発言、臨時国会で政権の火種に…野党側には慎重論も「世論の動向見つつ対応を」 - 読売新聞",
+                "title": "米兵事件、県政奪還直後で政府危機感…「最悪のタイミング」与党内から懸念の声やまず - 読売新聞",
                 "source": "Google News",
                 "time": "本日",
-                "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5rc0szNERqRUNTakJfNXo5OWprS3I2N2VCRVkwYk1SVHprc0FDSjVxbTBTZ2ZqbzJ5TmhNVDBHOGZoaENZREM4a09OaXpERkViNlYzRTZFTVJpNnBvMGMzc2xjaE1Ndw?oc=5",
+                "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1kcm9qVVdkN1FUZzh4NGViMWRBQmxfQ3hQamhBbUZyTEF6NWRDWXVRWkNXZEl3eGpnMVU0eDRUdjhpZmVjRUpsU2p0MnZBQTBlM050U2cyTW53c2VCcXV2Umk3enJxZw?oc=5",
                 "image": "file:///C:/Users/yhisa/.gemini/antigravity/brain/3ec1b64c-9fb8-4f1b-bf97-7bf3efc89321/top-news_news_thumbnail.png",
-                "summary": "<span class='highlight'>AI要約:</span><br>*   簗農相による「予算カット」発言が、臨時国会における政権の火種として追及される見通し。<br>*   野党は本件を政府への攻撃材料と捉える一方、<br>*   世論の動向を見極め、慎重に対応すべきとの意見が党内で浮上している。",
+                "summary": "<span class='highlight'>AI要約:</span><br>以下にニュースの概要を箇条書きで記します。<br><br>*   米兵による事件が発生し、政府内に深刻な危機感が広がっている。<br>*   与党内からは、県政奪還直後というタイミングに対し「最悪の状況」との懸念の声が相次ぐ。<br>*   事件は、今後の政府の政策推進や地元住民との関係構築に重大な影響を及ぼすとみられる。",
                 "original": "..."
             }
         ]
@@ -35,30 +35,30 @@
         "name": "スタートアップ",
         "articles": [
             {
-                "title": "座談会：大学の知と志を社会へつなげるスタートアップ - keio.ac.jp",
+                "title": "【STARTUP DB】調査結果 スタートアップ資金調達金額ランキング（2026年9月） - PR TIMES",
                 "source": "Google News",
                 "time": "本日",
-                "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNemEtTnlVT1pPSVdfMW9ZUUN6bjZvbmlxTm1keTd2eDlHNkctUjhVakduVm12d0ZjZllPZmM0RHRORUQ4SWxmX3dHMGhjSnltbGZJSDlLSGZXWkVGbThQNTBCQVVxY0pyTzJTUjhSaHZrTWdhSC05bThSNFhmMHZ4X05kSmtHMkdr?oc=5",
+                "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4wNjUzbjRiYzBXcTd2SkpQWlgxQmp6a3AtOHVXZGYtNlRmRVR6YktxTXphekgxekx3My12d3hjNDk2cC01NlMzVzBVLXVDVXlZUVlwTmRRdk1vWVRQZ1lGMEJnaWpIUUJWWkE?oc=5",
                 "image": "file:///C:/Users/yhisa/.gemini/antigravity/brain/3ec1b64c-9fb8-4f1b-bf97-7bf3efc89321/startup_news_thumbnail.png",
-                "summary": "<span class='highlight'>AI要約:</span><br>想定されるニュースの概要は以下の通りです。<br><br>*   慶應義塾大学が主催し、「大学発スタートアップ」を主題とする座談会が開催された模様。<br>*   大学が有する「知」（研究成果）と「志」（理念）を社会実装し、新たな価値創造と社会貢献を推進する方策が議論の中心に。<br>*   産学連携の強化と、大学を中核としたイノベーションエコシステム構築への期待が示唆された。",
+                "summary": "<span class='highlight'>AI要約:</span><br>以下は想定されるニュース概要です。<br><br>*   STARTUP DBは、2026年9月時点における国内スタートアップの資金調達額ランキングを発表した。<br>*   本ランキングは、各スタートアップが調達した資金の規模を基に順位付けされており、業界の資金流入状況を明確にする。<br>*   国内スタートアップ市場の動向、成長を牽引する主要企業の投資状況を把握するための重要な指標となる。",
                 "original": "..."
             },
             {
-                "title": "ロボット系企業が日本スタートアップ大賞を複数受賞、最高賞はMujinに - robot digest",
+                "title": "JPモルガン､AIクラウドスタートアップの50億ドル融資で11%利回り提示 - Bloomberg.com",
                 "source": "Google News",
                 "time": "本日",
-                "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5OS1VPbENLb2FNWk1YcTdaRmVPbDR5VWliUEZRMk1ZTUpBZ1VNcUlaZ3dSOVR2ODBNWE9HNlJkZWNEYzUwV2JocEVXVTJUWnRiY3JJVEFtVE1ya3dUWXBKcmx5a0x2bmlKNUgw?oc=5",
+                "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0xSURUNlZGbG5sb3cyNXdKWWNRM3pad0VqN0pQLWxLUzhLeFdSRHlNVnprRkxGVmJvdnNqTVExNjJTeG92cHFfT0I1ZFhjdXF4Rng4cGd2ejk0NHdjMm5aRlhPOTZMdGFyUlFESWtPNF9ZbXdJT1pj?oc=5",
                 "image": "file:///C:/Users/yhisa/.gemini/antigravity/brain/3ec1b64c-9fb8-4f1b-bf97-7bf3efc89321/startup_news_thumbnail.png",
-                "summary": "<span class='highlight'>AI要約:</span><br>*   「日本スタートアップ大賞」において、ロボット関連企業が複数の賞を受賞した。<br>*   その最高賞は、ロボット制御システム開発を手掛ける株式会社Mujinに授与された。<br>*   これは、日本のロボット技術ベンチャーの存在感の高まりを裏付けるものとみられる。",
+                "summary": "<span class='highlight'>AI要約:</span><br>*   JPモルガンは、AIクラウドスタートアップに対し、50億ドル規模の融資を提示した。<br>*   同融資案では、年率11%という高水準な利回りが条件として設定されている。<br>*   これは、AI分野への積極的な資金流入と、高成長企業への投融資に伴うリスクプレミアムの動向を反映する。",
                 "original": "..."
             },
             {
-                "title": "日韓台・経済大接近：台湾スタートアップが成長の糧とする日本市場 岸本千佳司 - 週刊エコノミスト Online",
+                "title": "地域発スタートアップをテーマに地域VCと対談 - J-Net21[中小企業ビジネス支援サイト]",
                 "source": "Google News",
                 "time": "本日",
-                "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE95cXZuTVMteG5FYXpTcFF5WXQwa0pmVkxiZUgycGs4cXFtSEwtUlNCTlZqczEwU3loRnZvRW5kOHZZVENUWThIdUtiV0daRmpacmVQNkIxR19SSGVHUnJaZXNwYjJIY1dNb3NHN2lYY3BGa283aWEyN3d6dXNaRTg?oc=5",
+                "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1zeEo3czdTVU03OXk0N3NoUHBtUV9OandVbUIwYTlPSFl5UERvNVE5WnRfMFdhbFZLMl93NnhwdXNMcV9WZV9Jb1RGUHg0YzlhWlVCNFpubG9vTlhxdmFaWk0tZw?oc=5",
                 "image": "file:///C:/Users/yhisa/.gemini/antigravity/brain/3ec1b64c-9fb8-4f1b-bf97-7bf3efc89321/startup_news_thumbnail.png",
-                "summary": "<span class='highlight'>AI要約:</span><br>以下、ニュースの概要を箇条書きで記します。<br><br>*   日韓台間の経済連携が急速に深まる中、台湾のスタートアップ企業が日本市場を重視。<br>*   台湾企業は、日本の市場を自社の事業成長と国際展開のための重要な基盤と位置付けている。<br>*   日本市場は、彼らにとって新たな顧客獲得や技術提携の機会を提供し、成長の糧となっている。",
+                "summary": "<span class='highlight'>AI要約:</span><br>以下、想定されるニュースの概要です。<br><br>*   中小企業ビジネス支援サイト「J-Net21」が、地域発スタートアップを主題とする対談企画を実施。<br>*   地域ベンチャーキャピタル（VC）を招き、地域経済活性化に向けた議論を展開する。<br>*   新興企業の育成および資金調達支援に関する具体的な知見の共有が主眼となる見込み。",
                 "original": "..."
             }
         ]
@@ -67,30 +67,30 @@
         "name": "国立大学",
         "articles": [
             {
+                "title": "「ここを選ばない理由がない」 関西在住者の“研究力が高いと思う国立大学”ランキング！ 上位に「これ以上ない最高峰の環境」「勉強したいなら行くべし」の声（ねとらぼ） - Yahoo!ニュース",
+                "source": "Google News",
+                "time": "本日",
+                "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBiZEZTb2RxOWhjU0tuN2Q4Qi1NSWpOV3Z0Q2ZnUHhWMDFNSHVCOHVpSDAwRmJZWEt2dnN5dHAxai1HbWNUaU1YcktWYXZLdjVZejZQVzdUcUU4UjltRWZEa0MtSk5YeW44WDAzNDVrRV9rOGhHcWxHUGd5dzJndW8?oc=5",
+                "image": "file:///C:/Users/yhisa/.gemini/antigravity/brain/3ec1b64c-9fb8-4f1b-bf97-7bf3efc89321/university_news_thumbnail.png",
+                "summary": "<span class='highlight'>AI要約:</span><br>*   インターネットメディア「ねとらぼ」が、関西在住者を対象に実施した「研究力が高いと思う国立大学」のランキングを発表。<br>*   同ランキングの上位校には、「これ以上ない最高峰の環境」といった研究体制への高評価が集中した。<br>*   回答者からは「勉強したいなら行くべし」といった、具体的な推薦意見も多数寄せられている。",
+                "original": "..."
+            },
+            {
                 "title": "研究者インタビューを更新しました - kaiyodai.ac.jp",
                 "source": "Google News",
                 "time": "本日",
                 "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9GTF9XV3BPZnd6d0VqS2xXQzR5MEN3U2JfWDQzdVpuSTZPTmxJNEgtWjVwNWpJQ2tRaE9BajB4UHA4NEM3SnNfTnAzdTlhM1JlY1lGODEwQlhsSDQ2cUtkTkdzajdNUEZ3?oc=5",
                 "image": "file:///C:/Users/yhisa/.gemini/antigravity/brain/3ec1b64c-9fb8-4f1b-bf97-7bf3efc89321/university_news_thumbnail.png",
-                "summary": "<span class='highlight'>AI要約:</span><br>想定されるニュースの概要は以下の通りです。<br><br>*   東京海洋大学が、ウェブサイト上で公開している研究者インタビューの最新版を掲載。<br>*   同大学に所属する研究者の専門分野や、現在進行中の研究テーマ、その成果などを紹介する内容と見られる。<br>*   これにより、学術的知見の社会還元と、同大学の研究活動に対する理解促進を図る狙いがある。",
+                "summary": "<span class='highlight'>AI要約:</span><br>以下に想定されるニュースの概要を箇条書きで示します。<br><br>*   東京海洋大学が、公式サイト内の「研究者インタビュー」コンテンツを更新した。<br>*   同大学の研究者が取り組む最新の知見や研究成果が紹介されたとみられる。<br>*   学術活動の活性化と、大学の社会貢献に関する情報発信強化を図る狙い。",
                 "original": "..."
             },
             {
-                "title": "「完ぺきだった」“研究力が高いと思う国立大学”って？ ランキング上位に「学術的レベルが高い」「納得のいく卒論を書き上げられた」の声 (ねとらぼ) - Yahoo!ニュース",
-                "source": "Google News",
-                "time": "本日",
-                "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMjlsai1pVmRfSUlkbFJSZWVxamFiM2U4aGpsYU9uX2tyRTJVNmxBREwtYlVIZlFiQVl0cDEtTnlnY0ZJMGNBWHNpUXBaaTA4cGFCRnAyWGlaVjBqd2tRTEhrQk9KeXVPd0gxaDVCY2l3c24yWVJ3NjNibXZzSnlvODFseXBLQksyci1hdW13?oc=5",
-                "image": "file:///C:/Users/yhisa/.gemini/antigravity/brain/3ec1b64c-9fb8-4f1b-bf97-7bf3efc89321/university_news_thumbnail.png",
-                "summary": "<span class='highlight'>AI要約:</span><br>以下に想定されるニュースの概要を箇条書きで示します。<br><br>*   ウェブメディア「ねとらぼ」が「研究力の高い国立大学」に関するランキングを発表した。<br>*   上位にランクインした大学は、「学術的レベルの高さ」で学生からの評価を固めた。<br>*   「納得のいく卒論を書き上げられた」との声が示すように、具体的な研究成果への貢献が評価された。",
-                "original": "..."
-            },
-            {
-                "title": "横浜国立大学、サイバーセキュリティの新拠点「SPIRAL」設立。大学発の国産サイバーインテリジェンス提供 - internet.watch.impress.co.jp",
+                "title": "横浜国立大学、サイバーセキュリティの新拠点「SPIRAL」設立。大学発の国産サイバーインテリジェンス提供 - INTERNET Watch",
                 "source": "Google News",
                 "time": "本日",
                 "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9Ocy1qdWVjTkF3VEJONFhVbGFPUUFSRGVrMnBOLUxEN0hKY1RrS29aTFZjR2lTa29FRW5Kb0RTZmR2VUt1M0RyNHVIcVROTzdudU0wenVCWVh0Zk5nWEt0bW14cUtzdXRrQnVv?oc=5",
                 "image": "file:///C:/Users/yhisa/.gemini/antigravity/brain/3ec1b64c-9fb8-4f1b-bf97-7bf3efc89321/university_news_thumbnail.png",
-                "summary": "<span class='highlight'>AI要約:</span><br>以下にニュースの概要を箇条書きで示します。<br><br>*   横浜国立大学は、サイバーセキュリティに関する新たな研究開発拠点「SPIRAL」を設立した。<br>*   同拠点は、大学発の独自技術に基づく国産サイバーインテリジェンスの創出と社会提供を目指す。<br>*   これにより、日本のサイバー空間における安全保障体制の強化に貢献するものと期待される。",
+                "summary": "<span class='highlight'>AI要約:</span><br>*   横浜国立大学は、サイバーセキュリティ分野における新たな研究拠点「SPIRAL」を設立した。<br>*   同拠点は、大学の知見を活用し、国産のサイバーインテリジェンスの開発• 提供を目的とする。<br>*   これにより、日本のサイバーセキュリティ能力向上と自立性の強化に貢献する方針。",
                 "original": "..."
             }
         ]
@@ -99,30 +99,30 @@
         "name": "ゲーム",
         "articles": [
             {
-                "title": "北米で旋風を巻き起こす新ゲーム機“Nex Playground”試遊レビュー。コントローラなし、体ひとつでここまで遊べる！ 2027年日本上陸に向けて新作も数々準備中 - famitsu.com",
+                "title": "『ワンピース カードゲーム』ナミを「To LOVEる」の矢吹健太朗先生が描く！通常版、箔押しver.の2種で新パック「Heroines Edition vol.2」に収録 - インサイド",
                 "source": "Google News",
                 "time": "本日",
-                "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBBQzBwXzRGLVJycFpWdnRGVndBODZ2RHN5bzJjNUJtcHhjZGY2SnBVMjliUEV6NUptWmZJOVhEWGw3Zm5pc3dZSjI3aGlNR1hYWWhnb19lRQ?oc=5",
+                "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE00UDdHM3lQS3VFSEZieEo5RzYxQ1J6YjRmaDFEUTdfQ1VVODRRVVQtZFhmOWFvdkpiMWNYbWdhY1pybmt1MDQ0YU9uNFFrVTZhTXdJZjQ3MkFwOUJNZVNnYmVUV3ZYNlBmT0E?oc=5",
                 "image": "file:///C:/Users/yhisa/.gemini/antigravity/brain/3ec1b64c-9fb8-4f1b-bf97-7bf3efc89321/game_news_thumbnail.png",
-                "summary": "<span class='highlight'>AI要約:</span><br>*   コントローラを排し、身体動作で操作する新ゲーム機「Nex Playground」が、北米市場で注目を集めている。<br>*   2027年の日本上陸を目指し、現在、同機向けの新作タイトルが複数開発中である。",
+                "summary": "<span class='highlight'>AI要約:</span><br>*   『ワンピース カードゲーム』の最新パックに、漫画家• 矢吹健太朗氏が描き下ろした「ナミ」カードの収録が決定。<br>*   「To LOVEる」などで知られる矢吹氏によるイラストは、通常版と箔押しver.の2種展開。<br>*   これらは新パック「Heroines Edition vol.2」に収録される予定。",
                 "original": "..."
             },
             {
-                "title": "今週発売の新作ゲーム『Gears of War: E-Day』『ドラゴンズドグマ 2：ダークアリズン』『KINGDOM HEARTS Collection [I～III]』他 - Game*Spark",
+                "title": "丹生明里にとってのゲームは「人生を華やかに彩ってくれるもの」 - 日経クロストレンド",
                 "source": "Google News",
                 "time": "本日",
-                "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Jd2JaekdyZXdBMnhFQ1U0WlZsQWpFYXhpQzEtMnFWa0RIX2pGbWtiZm42QTZBVFFxQUtXUm5WMHhjdXd6TUVFUkpMWG1TTFJnb2ZDMDA0U2wyR09GQmEwajJLQU1DZw?oc=5",
+                "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVE04N2pCNXc3RU93bHdOUDZxWkNSLXVzejhQcHBGVTRpS2RtRndxYWZNVkRIWjdiRTVCdEFwaU1teDJ1ZFhxcFcyWldONm5mSW9yYjg1OGlRUk1LY1Nwb05uRlItLUpJYVRQblMtLWl4U2IzODJYSEpHRElVX3lMc0twemJ0ckVMU3dseXBB?oc=5",
                 "image": "file:///C:/Users/yhisa/.gemini/antigravity/brain/3ec1b64c-9fb8-4f1b-bf97-7bf3efc89321/game_news_thumbnail.png",
-                "summary": "<span class='highlight'>AI要約:</span><br>*   今週、複数の新作ゲームタイトルが市場に投入される。<br>*   主要作品として、『Gears of War: E-Day』、『ドラゴンズドグマ 2：ダークアリズン』が挙げられる。<br>*   『KINGDOM HEARTS Collection [I～III]』も同週リリースされる。",
+                "summary": "<span class='highlight'>AI要約:</span><br>以下にニュース概要を箇条書きで示します。<br><br>*   丹生明里氏が、ゲームに対する自身の見解を表明。<br>*   同氏はゲームを「人生を華やかに彩るもの」と捉え、その積極的な意義を強調した。<br>*   日経クロストレンドは、個人のエンターテインメントやライフスタイルにおけるゲームの役割について深掘りする。",
                 "original": "..."
             },
             {
-                "title": "アルファベット牌で英単語を作る麻雀風対戦ゲーム「WORJONG」。手牌が次の局へ残る独自ルールや，麻雀との違いについて聞いた［OIGS2026］ - 4Gamer.net",
+                "title": "防災訓練に演劇・脱出ゲームの「没入型」要素…参加者が次から次へと判断、マンネリ化防ぐ（読売新聞オンライン） - Yahoo!ニュース",
                 "source": "Google News",
                 "time": "本日",
-                "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBfeUxGeElXaTVhd2JIa1gwdk9LaS1nWF95Z1ZZU1BkVzh0U3E5aTZwMHQtUWo2Ukl4X09DQ0t4SmhZVDRMYmxBUDVlUHc3NXNDeXlfd1dPQVhwZ0NnbF95Z3hYaw?oc=5",
+                "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE95UmxvSlZ4QXMzMTd6M2QzRXI1UTV6dEw5RVFNMzVBSlZ2d1lHOGNHdHVFMDJYamk3YmU2UzZ4Mno5dDBuTEhYSmx1RS1vOEVjMTIwSmdtTkJvVW05SThMY2d2ZUJjT2pkRDdFVlhRWV8xTmN4UHJVNGt2NTVfaFU?oc=5",
                 "image": "file:///C:/Users/yhisa/.gemini/antigravity/brain/3ec1b64c-9fb8-4f1b-bf97-7bf3efc89321/game_news_thumbnail.png",
-                "summary": "<span class='highlight'>AI要約:</span><br>*   アルファベット牌で英単語を構築する麻雀風対戦ゲーム「WORJONG」が発表された。<br>*   手牌が次局へ持ち越される独自ルールなど、既存の麻雀とは異なるシステムを導入。<br>*   開発者へのインタビューを通じ、麻雀との相違点や詳細なゲーム内容を掘り下げた。",
+                "summary": "<span class='highlight'>AI要約:</span><br>*   防災訓練のマンネリ化が課題となる中、その実効性向上を目指し、新たな取り組みが展開された。<br>*   訓練には演劇や脱出ゲームといった「没入型」要素を導入。参加者は能動的に判断を下し、状況に対応するよう促される。<br>*   これにより、災害時の実践的な判断能力と危機対応能力の醸成が期待される。",
                 "original": "..."
             }
         ]
