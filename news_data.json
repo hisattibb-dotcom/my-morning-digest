@@ -3,30 +3,30 @@
         "name": "主要ニュース",
         "articles": [
             {
-                "title": "＜更新＞現職内堀雅雄氏、大差で４選 福島県知事選 「復興と地方創生を前に進める」 投票率44・05％ - 福島民報デジタル",
+                "title": "ロシアで拘束された北海道新聞記者、日本大使館員が領事面会…健康状態に問題なし - 読売新聞",
                 "source": "Google News",
                 "time": "本日",
-                "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9BbDI1NUFpRVhFcWJPeHc1TWpXVE03VmxkWDlvY29rOTgwUmJlVjVIUmI1QzlfYk1TU0V2SnVoMTRBSW9YTFE3RjNvQTRVYXM?oc=5",
+                "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1KSGM0TTg3SkR6dXJMdU9lRXNZYTFUd2J1X2RUWGFzZHF5bm0xaDlvSDBsM0tldklLZWtKRlQydlhzUHdvbGF5dkxqTXNfYTRvVU5DNFoxbEtDdGk1UnRhaVRieVVTdw?oc=5",
                 "image": "file:///C:/Users/yhisa/.gemini/antigravity/brain/3ec1b64c-9fb8-4f1b-bf97-7bf3efc89321/top-news_news_thumbnail.png",
-                "summary": "<span class='highlight'>AI要約:</span><br>以下に、想定されるニュースの概要を箇条書きで示します。<br><br>*   福島県知事選は、現職の内堀雅雄氏が大差で４選を果たした。<br>*   当選を受け、内堀氏は「復興と地方創生を前に進める」と表明した。<br>*   投票率は44.05％にとどまった。",
+                "summary": "<span class='highlight'>AI要約:</span><br>*   ロシア当局により拘束された北海道新聞記者に対し、在ロシア日本大使館員が領事面会を実施した。<br>*   面会を通じ、記者の健康状態に異常がないことが確認された。<br>*   日本政府は引き続き情報収集と早期解放に向けた対応を進めるものとみられる。",
                 "original": "..."
             },
             {
-                "title": "温帯低気圧でも油断できず 雨雲が発達し激しい雨のおそれ - ウェザーニュース",
+                "title": "台風31号 11月1日には小笠原近海まで北上 非常に強い勢力で(気象予報士 中川 裕美子 2026年10月27日) - tenki.jp",
                 "source": "Google News",
                 "time": "本日",
-                "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5lRjU1QnNVdXNYbEx3TG43LUNaeFg1cDNYN1JzSFBwTF9hSFlvN2VMcHVTYUR6NHplWTRhY0xFc2xvVkJvbWVlWmxtaG1TUjVBT0JfQg?oc=5",
+                "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1kOS0wRHZOMzFYWEVfSXc3NXpHWTlMWjVIZ0ZjOHpEX21SRE1FaFJ5NWtpZ01xQjlQZ0o2NTU2dDZwX1RyMXJMQnZWdWN0RDhsVEpveEdSUW9ubEY4Y0s0X1Vpd0dTdlpWSlIyag?oc=5",
                 "image": "file:///C:/Users/yhisa/.gemini/antigravity/brain/3ec1b64c-9fb8-4f1b-bf97-7bf3efc89321/top-news_news_thumbnail.png",
-                "summary": "<span class='highlight'>AI要約:</span><br>以下、想定されるニュースの概要です。<br><br>*   温帯低気圧の活動に対し、引き続き油断できない状況が継続している。<br>*   上空の気象条件により雨雲が急速に発達する可能性が指摘されている。<br>*   発達した雨雲は激しい雨を伴う恐れがあり、厳重な警戒が呼びかけられている。",
+                "summary": "要約の生成に失敗しました。（429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash, description: Generate content requests per minute limit exceeded on Free Tier. See https://ai.google.dev/gemini-api/docs/rate-limits.\nPlease retry in 42.293418235s. [links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, violations {\n  description: \"Generate content requests per minute limit exceeded on Free Tier. See https://ai.google.dev/gemini-api/docs/rate-limits.\"\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerMinutePerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 5\n}\n, retry_delay {\n  seconds: 42\n}\n]）",
                 "original": "..."
             },
             {
-                "title": "フランス各地で２週連続の抗議デモ、４１万人参加…パリではデモ隊の一部が治安部隊と衝突 - 読売新聞",
+                "title": "疲弊する「一強国家」 イスラエル総選挙27日投票、ネタニヤフ流に審判 - 日本経済新聞",
                 "source": "Google News",
                 "time": "本日",
-                "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0yNDkwcUxIX2FMT0oyZjBQeWxxaXFYdVl6NHp4aHAxOUpUaU1MZ1hyb0J2WXFpeFAzcVlmMXFILVF2YXFzbHZCaHVRV3puazdhdmpFOE9idWhXazg0RXVnWE93?oc=5",
+                "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBJZWdRQ19IbndUTTc4dk01WGdkVDVrNGp1RHZHZGJ6YWR3SUw5aDlublJ1bER4NVA1eXVlRWJvOGQ4M3gtdUYyZFJqdkhNUG94MWVCcW5JYVZBckVEREdyYVZWYWRMM253ejJDWA?oc=5",
                 "image": "file:///C:/Users/yhisa/.gemini/antigravity/brain/3ec1b64c-9fb8-4f1b-bf97-7bf3efc89321/top-news_news_thumbnail.png",
-                "summary": "<span class='highlight'>AI要約:</span><br>以下に、想定されるニュースの概要を箇条書きで記します。<br><br>*   フランス全土で大規模な抗議デモが２週連続で開催され、参加者は延べ４１万人に上った。<br>*   このデモは政府に対する国民の根強い不満を示唆しており、社会的な緊張が高まっている。<br>*   首都パリではデモ隊の一部が治安部隊と衝突し、一部で緊迫した状況を呈した。",
+                "summary": "<span class='highlight'>AI要約:</span><br>以下、想定されるニュースの概要です。<br><br>*   イスラエルで総選挙が27日に投票日を迎え、国家の進路が問われる重要な局面となる。<br>*   選挙は、ベンヤミン• ネタニヤフ首相の長期政権とその「ネタニヤフ流」の政策運営に対する国民の審判を下す機会となる。<br>*   内政• 外交上の課題を抱え、「疲弊する一強国家」と形容されるイスラエルの現状が、選挙を通じて浮き彫りになる見通しだ。",
                 "original": "..."
             }
         ]
@@ -35,30 +35,30 @@
         "name": "スタートアップ",
         "articles": [
             {
+                "title": "新潟発スタートアップ、株式会社LacuSが週刊東洋経済『すごいベンチャー100 2026年版』に選出 - 福島民報デジタル",
+                "source": "Google News",
+                "time": "本日",
+                "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9wMG1haFVNN1cyd3Atd214QjY5NUxSTmxQc0pxOEg1VXFzQlV2dkZLRzZjUEhBQ3E0bmFYT0Rva0kzZDBzZTFwMXBfY3NhVjJRZE1DczhaS21CLXl1Y0ZSdVdJY0pzdmc?oc=5",
+                "image": "file:///C:/Users/yhisa/.gemini/antigravity/brain/3ec1b64c-9fb8-4f1b-bf97-7bf3efc89321/startup_news_thumbnail.png",
+                "summary": "<span class='highlight'>AI要約:</span><br>以下に想定されるニュースの概要を箇条書きで示します。<br><br>*   新潟を拠点とするスタートアップ、株式会社LacuSが経済誌の注目リストに選出された。<br>*   同社は週刊東洋経済が選定する『すごいベンチャー100 2026年版』に名を連ねた。<br>*   これは、その革新的な事業モデルと将来性が高く評価されたものとみられる。",
+                "original": "..."
+            },
+            {
+                "title": "InsightX、東洋経済新報社「すごいベンチャー100」に選出：時事ドットコム - 時事ドットコム",
+                "source": "Google News",
+                "time": "本日",
+                "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9yWldadXktTWtwczlPQU9aeURYdFVEcVRxbDZMTVplWE1JUU5DYnNQNnVxN1Qtb3pzVmc5YVVpOF9oa1E5ZDVaV3lHbHlpS1pUZEdjZkRWVEt6YXQ1S1NSU2Z2TDRmcWZRZlBj?oc=5",
+                "image": "file:///C:/Users/yhisa/.gemini/antigravity/brain/3ec1b64c-9fb8-4f1b-bf97-7bf3efc89321/startup_news_thumbnail.png",
+                "summary": "<span class='highlight'>AI要約:</span><br>以下、ニュースの概要です。<br><br>*   新興企業InsightXが、東洋経済新報社選定の「すごいベンチャー100」に選出された。<br>*   同社の革新的な技術と事業モデルが、有力ベンチャーとして高く評価されたもの。<br>*   今回の選出は、今後の成長と市場での存在感強化に繋がるものと期待される。",
+                "original": "..."
+            },
+            {
                 "title": "〈100社を一挙公開〉｢すごいベンチャー｣2026年最新版 選別の時代を勝ち抜くスタートアップはどこか - 東洋経済オンライン",
                 "source": "Google News",
                 "time": "本日",
-                "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9sQWtQcnZoNFQtaEowT0FfTVZhZkE0bjBVNl9GQmlNZUh2eExIZUtneEo3Z3o0dXhrZEJ1N2RLZS1NbE5XTmtNd3RPRl9ZTGxfRXVZMmxVdTZTUTlIWHZj?oc=5",
+                "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB6Nk1QMnpXRVZUNnZVT0NOdm5sd2RaYk8xNUJ3YmVGVi11NmVIU09zR0JqTTF5Z2FVNG5KQzh1MTlpeVV4b3V4dy0wVll0SlF3amc?oc=5",
                 "image": "file:///C:/Users/yhisa/.gemini/antigravity/brain/3ec1b64c-9fb8-4f1b-bf97-7bf3efc89321/startup_news_thumbnail.png",
-                "summary": "<span class='highlight'>AI要約:</span><br>*   2026年を見据え、高い成長が期待されるベンチャー企業100社を選定し、その実態を詳述。<br>*   厳しい競争環境下で選別期を勝ち抜き、持続的な成長を遂げるスタートアップの要件を解説。<br>*   経済• 技術動向を踏まえ、将来の社会変革を牽引する革新的な企業の動向を深掘りする。",
-                "original": "..."
-            },
-            {
-                "title": "ベンチャーキャピタルによる防衛スタートアップへの投資が低コスト兵器を牽引 - 航空万能論GF",
-                "source": "Google News",
-                "time": "本日",
-                "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPT3BkaHZHZ1Ywa3BLTFBwVHZHYXZwdlgtWU4xVXNBQkpKT2ZUc25aRktfZW1hUDREX0RRQ3N2WTZPM05NeHJlWmtCYWRDbF9YVC1rY0tUdVI4cGVzV29WOWRkNUZXSFBJajB6QUdteWhqUGJVVTF4TUVPd01qNHJqdGN3bHNFejh5WWhFUDJDX1J5NDNxQUVCbmJpNFoyVVBLblJZVk85UGd2S1VwTjFZdVhOOE5pU3J1SHVKSTl0bmVYWFRQeE9aNHF3?oc=5",
-                "image": "file:///C:/Users/yhisa/.gemini/antigravity/brain/3ec1b64c-9fb8-4f1b-bf97-7bf3efc89321/startup_news_thumbnail.png",
-                "summary": "<span class='highlight'>AI要約:</span><br>はい、承知いたしました。以下にニュースタイトルから想定される概要を3行以内の箇条書きでまとめます。<br><br>---<br><br>*   ベンチャーキャピタル（VC）が防衛関連のスタートアップ企業への投資を活発化させている。<br>*   この資金が、従来の高額な兵器とは異なる、低コストかつ効率的な兵器システムの開発を牽引。<br>*   この動きは、防衛産業の構造変革を促し、将来の紛争における兵器調達戦略に新たな選択肢を提示する可能性。<br><br>---",
-                "original": "..."
-            },
-            {
-                "title": "金融庁、ベンチャーデット促進 ノンバンク社債法を見直しへ - ニッキンONLINE",
-                "source": "Google News",
-                "time": "本日",
-                "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9DckZMZHZsOHh0VWpsVXhMeVhnWGNodkF5RGlpalFCZnlSaC02U0RIczBFajczVXdnZG5tUWhDaW00Qkp3Z0xta0dBVWVzYjBCQXBYRG93?oc=5",
-                "image": "file:///C:/Users/yhisa/.gemini/antigravity/brain/3ec1b64c-9fb8-4f1b-bf97-7bf3efc89321/startup_news_thumbnail.png",
-                "summary": "<span class='highlight'>AI要約:</span><br>以下にニュース概要を箇条書きで示します。<br><br>*   金融庁は、ベンチャー企業の資金調達多様化を支援すべく、新たな融資手法である「ベンチャーデット」の普及促進に乗り出す方針。<br>*   その具体策として、ノンバンクによるベンチャーデット提供を後押しするため、「ノンバンク社債法」の見直しを検討。<br>*   成長戦略の要であるスタートアップ企業への資金供給を強化し、イノベーション創出を加速させる狙い。",
+                "summary": "<span class='highlight'>AI要約:</span><br>以下に想定されるニュース概要を記します。<br><br>*   2026年最新版として、東洋経済オンラインが厳選した有力ベンチャー100社を公開。<br>*   激しい選別の時代を勝ち抜き、成長を続けるスタートアップの選定基準と動向を詳述。<br>*   経済の未来を牽引する次世代の成長株を特定し、その戦略と展望を分析。",
                 "original": "..."
             }
         ]
@@ -67,30 +67,30 @@
         "name": "国立大学",
         "articles": [
             {
-                "title": "国立大の授業料引き上げ促す 20年間すえ置き、財務省「見直しを」 - 朝日新聞",
-                "source": "Google News",
-                "time": "本日",
-                "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAxbUFZN2Z3TkRYYXcyZFp1bWhzRG1CdTQ1WDlHWUpLTEduYlJhU3R5amJ2VEZFXzQxX1VRd2lJbGFqSGRLMG9Uak5zeG92M21DRkRtXzJIdEQxQ3RKaUlZWmExN1Ywb1k?oc=5",
-                "image": "file:///C:/Users/yhisa/.gemini/antigravity/brain/3ec1b64c-9fb8-4f1b-bf97-7bf3efc89321/university_news_thumbnail.png",
-                "summary": "<span class='highlight'>AI要約:</span><br>想定されるニュースの概要は以下の通りです。<br><br>*   財務省が、国立大学の授業料引き上げを各大学に要請した。<br>*   20年間据え置かれてきた授業料について、財政健全化の観点から見直しを促すもの。<br>*   これにより、大学の運営費捻出や教育• 研究環境の質向上を図る狙いがある。",
-                "original": "..."
-            },
-            {
                 "title": "国立大学法人東北大学と国立研究開発法人情報通信研究機構（NICT）が連携強化の協定を締結 - NICT",
                 "source": "Google News",
                 "time": "本日",
                 "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9vdzlDVHY0M2tRZVBMZkVnMDdtVUNmWWlwUUZmcDV1VGNYeGlvTUFXM2VEY3lUOVNOa3JUSXZUMlQtSGt5LWNidzZaSXpMeGtyRl9kamtUZ2tfelMtNUV2eVAwMEtTd3F2?oc=5",
                 "image": "file:///C:/Users/yhisa/.gemini/antigravity/brain/3ec1b64c-9fb8-4f1b-bf97-7bf3efc89321/university_news_thumbnail.png",
-                "summary": "<span class='highlight'>AI要約:</span><br>以下に想定されるニュース概要をまとめます。<br><br>*   国立大学法人東北大学と情報通信研究機構（NICT）が、連携強化に関する協定を締結。<br>*   本協定に基づき、情報通信技術（ICT）分野等での共同研究や人材育成を推進する方針。<br>*   両者の強みを活かし、日本の研究開発力向上および社会実装への貢献が期待される。",
+                "summary": "<span class='highlight'>AI要約:</span><br>以下にニュースの概要を箇条書きで示します。<br><br>*   国立大学法人東北大学と国立研究開発法人情報通信研究機構（NICT）は連携強化協定を締結。<br>*   両機関は情報通信技術分野における研究開発、人材交流等の協力関係を強化する。<br>*   これにより、我が国の学術振興と社会課題解決への貢献加速を図る。",
                 "original": "..."
             },
             {
-                "title": "OU-SPRING・BOOST Summer Research Symposium 2026を開催 - 国立大学法人 岡山大学",
+                "title": "国立大の授業料引き上げ促す 20年間すえ置き、財務省「見直しを」 - 朝日新聞",
                 "source": "Google News",
                 "time": "本日",
-                "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1VSWkwaE5sU2FodmkwTmwzcnRUbW9MOURBTTJXU0VqQXFqT1praW00M0czbk1RclZNZjBKOE1mNHB3bjFFMFBPTUpxRUxITDR2TmV4TFBoS3gyaUlxVEZkazNGSQ?oc=5",
+                "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAxbUFZN2Z3TkRYYXcyZFp1bWhzRG1CdTQ1WDlHWUpLTEduYlJhU3R5amJ2VEZFXzQxX1VRd2lJbGFqSGRLMG9Uak5zeG92M21DRkRtXzJIdEQxQ3RKaUlZWmExN1Ywb1k?oc=5",
                 "image": "file:///C:/Users/yhisa/.gemini/antigravity/brain/3ec1b64c-9fb8-4f1b-bf97-7bf3efc89321/university_news_thumbnail.png",
-                "summary": "<span class='highlight'>AI要約:</span><br>想定されるニュースの概要は以下の通りです。<br><br>*   国立大学法人岡山大学が、2026年に「OU-SPRING• BOOST Summer Research Symposium 2026」を開催することを決定した。<br>*   本シンポジウムは、同大学が推進するOU-SPRING• BOOSTプロジェクトにおける最新の研究成果を発表し、学術交流を促進することを目的とする。<br>*   国内外の研究者に対し、大学の戦略的研究の進捗を示すとともに、連携強化と次世代研究者育成の機会を提供する見込み。",
+                "summary": "<span class='highlight'>AI要約:</span><br>*   財務省は、20年間据え置かれてきた国立大学の授業料引き上げを促す方針を打ち出した。<br>*   これは、国立大学の財政状況見直しが喫緊の課題であるとの認識に基づくもの。<br>*   今後、大学の運営費や財政基盤に関する議論が本格化する見込み。",
+                "original": "..."
+            },
+            {
+                "title": "国立大授業料の標準額、物価・賃金に応じ毎年度見直し提案…財務省 - リセマム",
+                "source": "Google News",
+                "time": "本日",
+                "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBjMnVRZGRvdlZHeFFaWm9UZklQY091SE81NGc2QlJCbnJtZERVQzhEOE9GbG52b3UyOXE1T2laTndjZVZuMzNtVXduUHd0WV9pS2J2RmRxS09faEc0aVpsS2tfUTFhQQ?oc=5",
+                "image": "file:///C:/Users/yhisa/.gemini/antigravity/brain/3ec1b64c-9fb8-4f1b-bf97-7bf3efc89321/university_news_thumbnail.png",
+                "summary": "要約の生成に失敗しました。（429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash, description: Generate content requests per day limit exceeded on Free Tier. See https://ai.google.dev/gemini-api/docs/rate-limits.\nPlease retry in 5h52m38.602709111s. [links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, violations {\n  description: \"Generate content requests per day limit exceeded on Free Tier. See https://ai.google.dev/gemini-api/docs/rate-limits.\"\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 20\n}\n, retry_delay {\n  seconds: 21158\n}\n]）",
                 "original": "..."
             }
         ]
@@ -99,30 +99,30 @@
         "name": "ゲーム",
         "articles": [
             {
-                "title": "PHPの重大な脆弱性が発覚。ゲーム業界への影響と各社の対応まとめ - 4Gamer.net",
+                "title": "「40代以上がゲームに夢中になるのはおかしい」「暴力の引き金になるのでは」―米FOXニュースが『GTA6』発売を巡る議論を報じる。海外でも根強いゲームへの偏見（Game Spark） - Yahoo!ニュース",
                 "source": "Google News",
                 "time": "本日",
-                "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE53S2NGYklFV2p2d1VEenZOX1J5U3B5Q1lJVXZZVmRJRWJuQVJqb3ZjYWxhS0Nwb09JRlk0bU1Xb3VxSC15OWowMU5SOVQxNEJpLWxaOHQ1cy1vNXlyYVkyNXc1dw?oc=5",
+                "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5zNWJvMXNEbE1CZGJxU1drR3dad29iYXBBSmFEejk3Vm05MEJQUFJWOVJEam53aDNWekhDWU53N0QwT3ExeXZyV0tEb3dFTTNlRHU3SDhWR0d1a0kwRl83bXZxRHgyNmlRRXFaaS1VcVdRcUxCVTYxR2I5RnlvLW8?oc=5",
                 "image": "file:///C:/Users/yhisa/.gemini/antigravity/brain/3ec1b64c-9fb8-4f1b-bf97-7bf3efc89321/game_news_thumbnail.png",
-                "summary": "<span class='highlight'>AI要約:</span><br>想定されるニュースの概要は以下の通りです。<br><br>*   PHPにおいて重大な脆弱性が発見され、広範なウェブサービスへの影響が懸念されている。<br>*   特にゲーム業界への波及が指摘されており、サービス停止やユーザーデータ漏洩などの深刻なリスクが浮上。<br>*   各社は緊急のセキュリティ対策として、パッチ適用やシステム改修といった対応に追われている模様。",
+                "summary": "要約の生成に失敗しました。（429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash, description: Generate content requests per day limit exceeded on Free Tier. See https://ai.google.dev/gemini-api/docs/rate-limits.\nPlease retry in 5h52m22.501546943s. [links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, violations {\n  description: \"Generate content requests per day limit exceeded on Free Tier. See https://ai.google.dev/gemini-api/docs/rate-limits.\"\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 20\n}\n, retry_delay {\n  seconds: 21142\n}\n]）",
                 "original": "..."
             },
             {
-                "title": "戦略と物語が交わる交易地で、「シミュレーションRPG」は生まれた―知られざる名作から辿るSRPG前史【ゲームのおいたち・ゲームのあゆみ】 - Game*Spark",
+                "title": "明日発売のゲームはバグまみれ！ その場しのぎの対応でなんとかごまかそう。「バグなど1つもございません！」 - 4Gamer.net",
                 "source": "Google News",
                 "time": "本日",
-                "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1iTC0tR2V4T28yeHIxWXNzUm5RVGFzUnpjNDNKQy1qcEZNZlkySGJBUElnMFlGYkMybzBlS2wxbUZRUUpHQVFhQ2E0aEhIYlRoVE5kWjRtQjEzMVM2QUpqM1JwX2Rjdw?oc=5",
+                "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5pOWN1OXpBV3luOE5kQlpkRGdaQzlrZW04VUc2ZW9zZzVfYUw3UFBNMUZISEVlQ1d3SkxPNnAtMDVORHZpQWd4aWdjZHZ2Mjhodm0xR0pBWExLeXFMeE5idFlZTQ?oc=5",
                 "image": "file:///C:/Users/yhisa/.gemini/antigravity/brain/3ec1b64c-9fb8-4f1b-bf97-7bf3efc89321/game_news_thumbnail.png",
-                "summary": "<span class='highlight'>AI要約:</span><br>*   シミュレーションRPG（SRPG）の起源と発展を歴史的に考察。<br>*   戦略性と物語性の融合を特徴とする同ジャンルの前史を、知られざる初期作品群から紐解く。<br>*   黎明期の作品がいかに現在のSRPGジャンルを形成したか、その系譜を追う。",
+                "summary": "要約の生成に失敗しました。（429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash, description: Generate content requests per day limit exceeded on Free Tier. See https://ai.google.dev/gemini-api/docs/rate-limits.\nPlease retry in 5h52m7.189137677s. [links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, violations {\n  description: \"Generate content requests per day limit exceeded on Free Tier. See https://ai.google.dev/gemini-api/docs/rate-limits.\"\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 20\n}\n, retry_delay {\n  seconds: 21127\n}\n]）",
                 "original": "..."
             },
             {
-                "title": "ジャガイモで町開発？ボードゲーム海外へ 北海道・ニセコ、移住夫婦が製作（共同通信） - Yahoo!ニュース",
+                "title": "AIの次なる進化は、ゲームの操作データから始まる - WIRED.jp",
                 "source": "Google News",
                 "time": "本日",
-                "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBGSEVZR3V3MjlqT3dkYS1hWFRoWmloYzVpbFZEOUVhRTV3RjJwZDF3NjhXVXAzeU5QclNxbGZFV0hrSVluMkRJbHpnYllKSTJNRmFnRElyYTF3N3RaSGctY25ycDJtUnZWX1NEUGZFZnpobm1QMGJTNV9PTHNlSDA?oc=5",
+                "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOc3RWZU15RHNlcFFyc3BnNjZIcHNlM1AyZHJWMHRUSXJ5QzBDbDRoNG9pM1pxWWZfdHJLODF2d0NKeklZZVZ5dmk0MV9tTE9jMjdsX2pHdXVlVXNwZ0tVeG1SWjdnQ2FBaWs3Qk9ERkR4MnlQUnFLSlVGcDdGRVRqTWE1QW14RUY5YjRnTTd5QWpKdXBvaFVR?oc=5",
                 "image": "file:///C:/Users/yhisa/.gemini/antigravity/brain/3ec1b64c-9fb8-4f1b-bf97-7bf3efc89321/game_news_thumbnail.png",
-                "summary": "<span class='highlight'>AI要約:</span><br>想定されるニュースの概要は以下の通りです。<br><br>*   北海道ニセコに移住した夫婦が、ジャガイモを基軸とした町開発ボードゲームを製作。<br>*   同ゲームは地域の特色を活かし、海外市場への展開を図る。<br>*   地元の資源と独自の視点による国際展開が注目される。",
+                "summary": "<span class='highlight'>AI要約:</span><br>想定されるニュースの概要は以下の通りです。<br><br>*   人工知能（AI）は、ゲーム操作データの詳細な分析を通じ、次なる進化局面へと移行する。<br>*   人間特有の判断や微細な操作ロジックを学習し、AIの行動モデルは飛躍的に高度化。<br>*   この技術は、ゲーム分野を超え、自動運転やロボット制御など現実世界への応用が展望される。",
                 "original": "..."
             }
         ]
