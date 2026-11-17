@@ -1,18 +1,130 @@
 {
     "top-news": {
         "name": "主要ニュース",
-        "articles": []
+        "articles": [
+            {
+                "title": "米中露首脳会談で共同声明を検討か、露大統領補佐官「国際情勢の展開に大きな影響を与えるはず」 - 読売新聞",
+                "source": "Google News",
+                "time": "本日",
+                "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4tYVdMLVd3amlfTHhEOFlJR1pGeEJ2VGpKa1ZPWlY4ZjhCMGxJSnFxSlRPTEUwbUZKOFRtR0RwUy02cUN0Z2RxMU93NXJYT1ozaFJWUmZEOGJ5NTY5dURXRUVn?oc=5",
+                "image": "file:///C:/Users/yhisa/.gemini/antigravity/brain/3ec1b64c-9fb8-4f1b-bf97-7bf3efc89321/top-news_news_thumbnail.png",
+                "summary": "<span class='highlight'>AI要約:</span><br>想定されるニュースの概要は以下の通りです。<br><br>*   米中露の各国首脳による会談が検討されており、共同声明の発表が視野に入っている模様。<br>*   会談では、国際情勢における三国間の協力や連携を示す共同声明の策定が模索されている。<br>*   ロシア大統領補佐官は、この動きが国際情勢の展開に大きな影響を与えるとの見方を示し、その動向に注目が集まる。",
+                "original": "..."
+            },
+            {
+                "title": "ロシア機が領空侵犯か 福岡・沖ノ島周辺で：時事ドットコム - 時事ドットコム",
+                "source": "Google News",
+                "time": "本日",
+                "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBwZ0JROV9yanl5TG4xbmMzbVBQWkpmTUZXVDhpMlNncGNWaEw1cEdrU2lrRmdOR2RTWkxlcWtNd0JTMkk5MzFGUTBsc1pyZVVQdWYxWkl0bkxZTGVlRFU5aU5yZw?oc=5",
+                "image": "file:///C:/Users/yhisa/.gemini/antigravity/brain/3ec1b64c-9fb8-4f1b-bf97-7bf3efc89321/top-news_news_thumbnail.png",
+                "summary": "<span class='highlight'>AI要約:</span><br>以下、想定されるニュースの概要です。<br><br>*   福岡県沖ノ島周辺の領空において、ロシア機が侵犯した疑いが時事ドットコムにより報じられた。<br>*   現時点では「領空侵犯か」として状況が確認中であり、日本政府• 防衛省が事態の詳細把握を急いでいる。<br>*   本事案は、今後の日露関係や安全保障上の課題として注視される。",
+                "original": "..."
+            },
+            {
+                "title": "イランが米首都で「汚い爆弾」の使用を計画か 米情報機関 CNN EXCLUSIVE - CNN",
+                "source": "Google News",
+                "time": "本日",
+                "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBGd3RBMmp3aGFMMmxrTnpiYkRySERnSnI2NlR1X3ZReV91N0ZCQkg3ZlBGYzU3LWpaS1h0aGVkWkRlSWlBemZmNkp0V2laUVg2?oc=5",
+                "image": "file:///C:/Users/yhisa/.gemini/antigravity/brain/3ec1b64c-9fb8-4f1b-bf97-7bf3efc89321/top-news_news_thumbnail.png",
+                "summary": "<span class='highlight'>AI要約:</span><br>*   米情報機関筋の情報として、イランが米首都ワシントンD.C.において「汚い爆弾」の使用を計画しているとの疑惑が浮上した。<br>*   この情報はCNNが独占的に報じたもので、米当局はイランの動きに対し警戒を強めている。<br>*   中東情勢の緊迫化に加え、米本土へのテロ脅威が高まる可能性があり、詳細な調査が進められている。",
+                "original": "..."
+            }
+        ]
     },
     "startup": {
         "name": "スタートアップ",
-        "articles": []
+        "articles": [
+            {
+                "title": "【締切1/20】2026年度「ディープテック・スタートアップ支援基金／国際共同研究開発」公募 - スタートアップポートヨコハマ",
+                "source": "Google News",
+                "time": "本日",
+                "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE53RnNUS19jcmNoYzZPVmJzOFdNeC1SdEczM1UxX3BfWUl5TGwzQmRYcEl6UnQya2czZHlGdy10elVHN0VNa21hM2xJUnBUTzcyMWZ2SzVpT01FZmNoeGYxeFhGOVNyLWs?oc=5",
+                "image": "file:///C:/Users/yhisa/.gemini/antigravity/brain/3ec1b64c-9fb8-4f1b-bf97-7bf3efc89321/startup_news_thumbnail.png",
+                "summary": "<span class='highlight'>AI要約:</span><br>*   2026年度の「ディープテック• スタートアップ支援基金／国際共同研究開発」の公募を開始。<br>*   ディープテック分野のスタートアップ育成と国際共同研究開発の促進を目的とする。<br>*   応募締切は1月20日。詳細は「スタートアップポートヨコハマ」にて確認可能。",
+                "original": "..."
+            },
+            {
+                "title": "上場企業とスタートアップの協業促進、福岡でリバースピッチ - J-Net21[中小企業ビジネス支援サイト]",
+                "source": "Google News",
+                "time": "本日",
+                "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE12c0F1YlNBNjBwZFdSRGpSekNLSnlWT0p2X29MWjhVVGtEb2tmTzhlQ1NtRUlYR0hSZURYcE5QNzluamczV2liNzFQUElTVDNnQm9UQlV6OVQ5NHRoa1VrQnhBQQ?oc=5",
+                "image": "file:///C:/Users/yhisa/.gemini/antigravity/brain/3ec1b64c-9fb8-4f1b-bf97-7bf3efc89321/startup_news_thumbnail.png",
+                "summary": "<span class='highlight'>AI要約:</span><br>想定されるニュースの概要は以下の通りです。<br><br>*   福岡市において、上場企業とスタートアップ企業との新たな協業促進を目的としたイベントが開催される見込み。<br>*   イベントは、上場企業が自社の課題やニーズを提示し、スタートアップが解決策を提案する「リバースピッチ」形式を採用。<br>*   中小企業庁が運営するJ-Net21が主催または関与し、中小企業のビジネス成長と新規事業創出を支援する方針。",
+                "original": "..."
+            },
+            {
+                "title": "大学発ベンチャー急増6220社、過去10年で3.5倍 少子化背景、生き残りへ新収益源 - Yahoo!ニュース",
+                "source": "Google News",
+                "time": "本日",
+                "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBYQjRHU1d3UEZFa2oyMTRQM0tCXzJKSHIzUUxPUjZBTV83TmZ4ZXB1S1BLRjExLXA2dDNzWGFjN0xPSU5RbjM5MnFOUUVyQVBM?oc=5",
+                "image": "file:///C:/Users/yhisa/.gemini/antigravity/brain/3ec1b64c-9fb8-4f1b-bf97-7bf3efc89321/startup_news_thumbnail.png",
+                "summary": "<span class='highlight'>AI要約:</span><br>*   大学発ベンチャーが過去10年で3.5倍増の6220社に急増。<br>*   少子化を背景に、大学の生き残りをかけた新収益源確保が喫緊の課題となっている。",
+                "original": "..."
+            }
+        ]
     },
     "university": {
         "name": "国立大学",
-        "articles": []
+        "articles": [
+            {
+                "title": "国の交付金減少で｢外部資金｣争奪戦 静大は他大に比べ苦戦？ 名大・信州大の戦略から見る地方国立大学の現在地【Web限定】 - 静岡新聞DIGITAL",
+                "source": "Google News",
+                "time": "本日",
+                "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBJMHFFRERLV3RFQUsxS1ZieUZlQW5sZ2hMTURGbjJ2ZDY3aTJSTUZFdnJjdmJrWGUyVW9OSkR0b2RHczhKalRMNGRnQkozdw?oc=5",
+                "image": "file:///C:/Users/yhisa/.gemini/antigravity/brain/3ec1b64c-9fb8-4f1b-bf97-7bf3efc89321/university_news_thumbnail.png",
+                "summary": "<span class='highlight'>AI要約:</span><br>以下にニュースの概要を箇条書きで示します。<br><br>*   国の交付金減少に伴い、国立大学における外部資金獲得競争が激化している現状を報じる。<br>*   静岡大学が他大学と比較して資金獲得に苦戦する実態に迫り、その背景を深掘りする。<br>*   名古屋大学や信州大学の事例を分析し、地方国立大学が直面する厳しい経営環境と戦略的な現在地を考察する。",
+                "original": "..."
+            },
+            {
+                "title": "「充実しすぎています」 “研究室やゼミの評価が高い地方国立大学”ランキング上位に「勉強だけじゃなくて刺激がすごい」「尊敬できる講師のゼミに入れた」の声（ねとらぼ） - Yahoo!ニュース",
+                "source": "Google News",
+                "time": "本日",
+                "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1lMVJhOHprQzdteGlleDlaRUlld2RVSmpCbC1BX21OTnZ1TGM3MkNQY0hNc1U4X2RoTjRSSElrS0wzY1ozd3lGb2poVnJJejVhSDd3YVBWemJkbEw1NTFPWmdtaTdhazV3Ri1zY2IxLTc0eFV3WXBGZTlNYU53WkE?oc=5",
+                "image": "file:///C:/Users/yhisa/.gemini/antigravity/brain/3ec1b64c-9fb8-4f1b-bf97-7bf3efc89321/university_news_thumbnail.png",
+                "summary": "<span class='highlight'>AI要約:</span><br>想定されるニュースの概要は以下の通りです。<br><br>*   研究室やゼミの質を評価基準とした地方国立大学の最新ランキングが発表された。<br>*   上位にランクインした大学の学生からは、単なる学業に留まらない刺激的な環境や、質の高い指導陣への高い満足度が示された。<br>*   これらの評価は、学生の大学生活における深い充実感と満足度を裏付けるものとなっている。",
+                "original": "..."
+            },
+            {
+                "title": "サイエンスアゴラin千葉「いのちのレシピ」を開催します-科学と暮らしの、これからの付き合い方- - PR TIMES",
+                "source": "Google News",
+                "time": "本日",
+                "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9rZWIwRFRhU3pBMV95VWRrelVYbjhDblJMSGxLVXZCY0xkTllhMG5ibnBTTzRrQWJmQU5qUVlpWERQZTY0TlFVUnRtOU1TUDEtWGUtdTFXb1pmR3V5TUtlV0JtRDk4LXBWc0E?oc=5",
+                "image": "file:///C:/Users/yhisa/.gemini/antigravity/brain/3ec1b64c-9fb8-4f1b-bf97-7bf3efc89321/university_news_thumbnail.png",
+                "summary": "<span class='highlight'>AI要約:</span><br>以下にニュースの概要を箇条書きで示します。<br><br>*   「サイエンスアゴラin千葉」が開催され、科学と暮らしの今後の関係性を主要テーマに据える。<br>*   「いのちのレシピ」と題し、現代社会における科学技術と日常生活の調和ある共存の在り方を模索する。<br>*   生活に密着した科学の役割と、新たな付き合い方について多角的な視点を提示する。",
+                "original": "..."
+            }
+        ]
     },
     "game": {
         "name": "ゲーム",
-        "articles": []
+        "articles": [
+            {
+                "title": "パソコンゲーム「NIKKE」を襲ったワナ 正規版起動でウイルス感染 - 日本経済新聞",
+                "source": "Google News",
+                "time": "本日",
+                "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE41NjZRXzZiWHRlbWl1V05vakFCSlAxVVVBWmtpTFpEVGVHTGwwUTgyVzhXVlA5NFhpQnVUa1Y4OExjSGxTU0RLTkZ5T2VySENoVVl3a21hdlJzMThpWVJIUU45ZDdzTEtFMS1BeA?oc=5",
+                "image": "file:///C:/Users/yhisa/.gemini/antigravity/brain/3ec1b64c-9fb8-4f1b-bf97-7bf3efc89321/game_news_thumbnail.png",
+                "summary": "<span class='highlight'>AI要約:</span><br>*   人気PCゲーム「NIKKE」において、正規版の起動を装ったウイルス感染の被害が確認された。<br>*   利用者を標的とした巧妙なサイバー攻撃、いわゆる「ワナ」が仕掛けられたとみられている。<br>*   日本経済新聞が報じた本件は、デジタルコンテンツ利用におけるセキュリティリスクに警鐘を鳴らしている。",
+                "original": "..."
+            },
+            {
+                "title": "『テーブルゲーム・ワールド CCFOLIA』遊びかた紹介ページを公開。実装機能への多数の意見を受けて。“知らない人同士によるオンラインプレイやCPU対戦なし”など - ファミ通",
+                "source": "Google News",
+                "time": "本日",
+                "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9Ta3M1ZzBhREczQkVzNUZLMGNqN3k4bEJwSThNMjRDMlBXRWFsWURBcjY2dEFBZER4NDljYXBYdWRlME1TMzBuS2tjS3hpQUNZbVgzMWs2Yw?oc=5",
+                "image": "file:///C:/Users/yhisa/.gemini/antigravity/brain/3ec1b64c-9fb8-4f1b-bf97-7bf3efc89321/game_news_thumbnail.png",
+                "summary": "<span class='highlight'>AI要約:</span><br>*   テーブルゲーム• ワールド CCFOLIAが、ユーザーの意見を受けて遊び方紹介ページを公開。<br>*   これは、実装機能に関する多数の意見や問い合わせに対応し、サービスの正しい理解を促進するもの。<br>*   特に「見知らぬ人同士でのオンラインプレイやCPU対戦は非対応」であるなど、本サービスの仕様を明確化。",
+                "original": "..."
+            },
+            {
+                "title": "『スプラトゥーン3』11月18日にアプデ配信。Xマッチでフレンドと2人組で参加できるように。2026冬 Chill Seasonからの試験導入 - ファミ通",
+                "source": "Google News",
+                "time": "本日",
+                "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE82cjhsNkstc091emkxdzQ5ZTdZcjNka3UxZUhmN2piYlFpX2VlaXdvWF9XRU1tMmdtSE5FcGtwR3NXQ3ZMVUZxS0otRC1DZ0U2MnBnZTltaw?oc=5",
+                "image": "file:///C:/Users/yhisa/.gemini/antigravity/brain/3ec1b64c-9fb8-4f1b-bf97-7bf3efc89321/game_news_thumbnail.png",
+                "summary": "<span class='highlight'>AI要約:</span><br>以下にニュースの概要を要約します。<br><br>*   人気ゲーム『スプラトゥーン3』は、11月18日に最新アップデートを配信する。<br>*   本アップデートにより、競技モード「Xマッチ」において、フレンドとの2人組参加が可能となる。<br>*   当該機能は、2026年冬開始の「Chill Season」から試験的に導入される予定である。",
+                "original": "..."
+            }
+        ]
     }
 }
